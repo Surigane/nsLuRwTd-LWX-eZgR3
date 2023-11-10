@@ -355,8 +355,6 @@ http://dmi3y-tv.ru/hls/CH_TVBRICSHD_ENG.m3u8
 http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дума ТВ HD
 http://dmi3y-tv.ru/hls/CH_DUMATVHD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Хабар 24 HD
-http://dmi3y-tv.ru/hls/CH_HABAR24HD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Благосфера ТВ HD
 http://dmi3y-tv.ru/hls/CH_BLAGOSFERAHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Известия HD

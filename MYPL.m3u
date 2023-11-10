@@ -1,48 +1,52 @@
 #EXTM3U
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Первый канал (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_1TV.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Саратов 24 HD
-https://river-3-311.rutube.ru/stream/genetta-504.ost.rutube.ru/TklJdjU3d6Zidh4CtO2ZWQ/1699729678/e07fffc5eb21f98a5ade09e825d7095a/720p_stream.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Россия 1 (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_ROSSIA1.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Матч! (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_MATCHTV.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",НТВ (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_NTV.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Пятый канал (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_5TV.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Россия K (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_ROSSIAK.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Россия 24 (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Карусель (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",ОТР (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_OTR.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",ТВЦ (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_TVC.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",РЕН ТВ (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",СТС (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_STS.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Домашний (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",ТВ3 (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_TV3.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Пятница! (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Звезда (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",ТНТ (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_TNT.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Че! (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_CHE.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Ю (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_U.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Саратов 24
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_SARATOV24HD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Первый канал HD
+http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 1 HD
+http://dmi3y-tv.ru/hls/okko/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Матч! HD
+http://dmi3y-tv.ru/hls/okko/CH_MATCHTVHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Пятый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Россия К
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 24
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Карусель
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",ОТР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",ТВЦ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",РЕН ТВ HD
+http://dmi3y-tv.ru/hls/okko/CH_RENTVHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",СПАС
+http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",СТС HD
+http://dmi3y-tv.ru/hls/okko/CH_STSHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Домашний HD
+http://dmi3y-tv.ru/hls/okko/CH_DOMASHNIYHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",ТВ3 HD
+http://dmi3y-tv.ru/hls/okko/CH_TV3HD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Пятница! HD
+http://dmi3y-tv.ru/hls/okko/CH_FRIDAYHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Звезда HD
+http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",МИР HD
+http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",ТНТ HD
+http://dmi3y-tv.ru/hls/okko/CH_TNTHD.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",МУЗ ТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Че!
+http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Ю
+http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Саратов 24 HD
+https://river-3-311.rutube.ru/stream/genetta-504.ost.rutube.ru/TklJdjU3d6Zidh4CtO2ZWQ/1699729678/e07fffc5eb21f98a5ade09e825d7095a/720p_stream.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE HD
 http://dmi3y-tv.ru/hls/okko/CH_ViPPREMIEREHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT HD

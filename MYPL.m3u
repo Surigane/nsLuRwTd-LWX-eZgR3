@@ -41,10 +41,6 @@ http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_CHE.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_U.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Саратов 24
 http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_SARATOV24HD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",ТНВ Планета (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_TNVPLANETA.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ САРАТОВ",Шаян ТВ (Саратов)
-http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_SHAYNTV.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE HD

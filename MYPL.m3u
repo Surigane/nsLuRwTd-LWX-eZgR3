@@ -1,51 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Первый канал HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2443.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Первый канал HD
 http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 1 HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2415.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 1 HD
 http://dmi3y-tv.ru/hls/okko/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Матч! HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2303.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Матч! HD
 http://dmi3y-tv.ru/hls/okko/CH_MATCHTVHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",НТВ
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1525.png" group-title="ФЕДЕРАЛЬНЫЕ HD",НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Пятый канал
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1472.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Россия К
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1826.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия К
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 24
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2702.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 24
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Карусель
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2587.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Карусель
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",ОТР
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2106.png" group-title="ФЕДЕРАЛЬНЫЕ HD",ОТР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",ТВЦ
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3185.png" group-title="ФЕДЕРАЛЬНЫЕ HD",ТВЦ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",РЕН ТВ HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3142.png" group-title="ФЕДЕРАЛЬНЫЕ HD",РЕН ТВ HD
 http://dmi3y-tv.ru/hls/okko/CH_RENTVHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",СПАС
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1217.png" group-title="ФЕДЕРАЛЬНЫЕ HD",СПАС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",СТС HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1870.png" group-title="ФЕДЕРАЛЬНЫЕ HD",СТС HD
 http://dmi3y-tv.ru/hls/okko/CH_STSHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Домашний HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1820.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Домашний HD
 http://dmi3y-tv.ru/hls/okko/CH_DOMASHNIYHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",ТВ3 HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6764.png" group-title="ФЕДЕРАЛЬНЫЕ HD",ТВ3 HD
 http://dmi3y-tv.ru/hls/okko/CH_TV3HD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Пятница! HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Пятница! HD
 http://dmi3y-tv.ru/hls/okko/CH_FRIDAYHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Звезда HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2622.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Звезда HD
 http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",МИР HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2837.png" group-title="ФЕДЕРАЛЬНЫЕ HD",МИР HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",ТНТ HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2176.png" group-title="ФЕДЕРАЛЬНЫЕ HD",ТНТ HD
 http://dmi3y-tv.ru/hls/okko/CH_TNTHD.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",МУЗ ТВ
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2845.png" group-title="ФЕДЕРАЛЬНЫЕ HD",МУЗ ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Че!
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1041.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Че!
 http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Ю
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Ю
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ HD",Саратов 24 HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2131.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Саратов 24 HD
 https://river-3-311.rutube.ru/stream/genetta-504.ost.rutube.ru/TklJdjU3d6Zidh4CtO2ZWQ/1699729678/e07fffc5eb21f98a5ade09e825d7095a/720p_stream.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8

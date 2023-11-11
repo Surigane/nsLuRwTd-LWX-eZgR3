@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2443.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Первый канал HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2443s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Первый канал HD
 http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2415.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 1 HD
 http://dmi3y-tv.ru/hls/okko/CH_RUSSIA1HD.m3u8

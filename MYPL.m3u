@@ -186,7 +186,7 @@ http://dmi3y-tv.ru/hls/CH_KINOSEMYA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСВИДАНИЕ
 http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Дом кино
-http://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
+https://edge02-alm.beetv.kz:443/bpk-token/2an@y5zq1rcphdoh0omk3j2ghtbxdn4pg2ouy3klmlca/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Fox HD

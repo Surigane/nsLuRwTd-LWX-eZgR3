@@ -269,8 +269,6 @@ http://moobl.ru/hls/Pobeda_hd.m3u8
 http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
 #EXTINF:-1 group-title="ОТЕЧЕСТВЕННОЕ", BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
-#EXTINF:-1 group-title="ОТЕЧЕСТВЕННОЕ", Родное кино 
-http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:-1 group-title="ОТЕЧЕСТВЕННОЕ", Русский иллюзион
 http://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ОТЕЧЕСТВЕННОЕ", Любимое кино 
@@ -279,8 +277,6 @@ http://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="ОТЕЧЕСТВЕННОЕ", Советское кино 
 http://s23.federal.tv:8082/feda/sovkinotv.stream/playlist.m3u8
-#EXTINF:-1 group-title="ОТЕЧЕСТВЕННОЕ", Наш кинопоказ HD
-http://193.33.88.172/nash_kinopokaz_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ХИТЫ", Кинохит 
 http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
 #EXTINF:-1 group-title="ХИТЫ", Кинохит HD
@@ -310,7 +306,7 @@ http://dmi3y-tv.ru/hls/okko/CH_DORAMAHD.m3u8
 #EXTINF:-1 group-title="ЖЕНСКОЕ", Epic Drama 
 rtmp://93.189.60.202//1048
 #EXTINF:-1 group-title="НАЦИОНАЛЬНОЕ", Cinema HD
-http://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
+https://edge01-alm.beetv.kz:443/bpk-token/2an@l3w0rtq21khoccycyn3bcnvdhzkxvo2elt0bgjaa/btv/SWM/CINEMA/CINEMA_460p_1500kbps.m3u8
 #EXTINF:-1 group-title="НАЦИОНАЛЬНОЕ", Hollywood HD 
 http://stream01.vnet.am/ParamountChannel/mono.m3u8
 #EXTINF:-1 group-title="НАЦИОНАЛЬНОЕ", Bollywood HD

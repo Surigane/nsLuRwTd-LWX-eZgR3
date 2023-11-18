@@ -140,9 +140,9 @@ http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ Сериал HD 
 http://strm.yandex.ru:80/kal/ntv_serial_new/ysign1=1cd76940889a08e1088e80af2f783547b47f927131e1656cff6130a9c0cd1ab0,atrack=audio1_rus,pfx,redid=1,sfx,ts=656614f3,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=whnw2owe6nkvdcd
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
-http://strm.yandex.ru:80/kal/ntv_stil/ysign1=cdb818b3845a9663bcff72a371b446db2e88ce9a0cd6d71348a8a5608caf5f7f,atrack=audio1_rus,pfx,redid=5,sfx,ts=65665cab,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=jn7u8p1cbz9sehs
+http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ-Хит HD 
-http://strm.yandex.ru:80/kal/ntv_hit/ysign1=c9f774c29781bb0d45c382a1dc492628e8599bd17e25bfb1d14a68da3fda5563,atrack=audio1_rus,pfx,redid=4,sfx,ts=6566190c,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=whq6yavd14pcaas
+http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
 http://dmi3y-tv.ru/hls/okko/CH_FOX.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО HD

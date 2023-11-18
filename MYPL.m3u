@@ -136,7 +136,7 @@ http://dmi3y-tv.ru/hls/okko/CH_STARTWORLD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START WORLD HD
 http://dmi3y-tv.ru/hls/okko/CH_STARTWORLDHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ Право 
-http://strm.yandex.ru:80/kal/ntv_pravo_new/ysign1=c88533375a04fc5b40366afcf0469a2c69681653467202c874a172accd04f89f,atrack=audio1_rus,pfx,redid=5,sfx,ts=656649e0,unsafe=1,vtrack=169_576p/index-v1-a1.m3u8?vsid=61g4tm1oqh582y0
+http://strm.yandex.ru:80/kal/ntv_pravo_new/ysign1=9fddd7da935c297f07874d0864e24bf0e8844b317984606b8772af58362d18d8,atrack=audio1_rus,pfx,redid=1,sfx,ts=656649e0,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=4n4bpsxdp9fin7f
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ Сериал HD 
 http://strm.yandex.ru:80/kal/ntv_serial_new/ysign1=1cd76940889a08e1088e80af2f783547b47f927131e1656cff6130a9c0cd1ab0,atrack=audio1_rus,pfx,redid=1,sfx,ts=656614f3,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=whnw2owe6nkvdcd
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ

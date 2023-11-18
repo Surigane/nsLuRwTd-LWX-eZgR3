@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="123",ТНТ MUSIC HD
-http://strm.yandex.ru:80/kal/tntmusic/ysign1=4000c6371ff77dbf985b16c91813c94685c951d8e78590192ee09fc6d6fba1f6,atrack=audio1_rus,pfx,redid=4,sfx,ts=6566499d,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=4lwgcu3ohh7ggai
 #EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://dvb.by/sources/logos/2443s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Первый канал HD
 http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2415s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 1 HD
@@ -789,7 +787,7 @@ http://dmi3y-tv.ru/hls/okko/CH_NATGEOHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ратник HD
 http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", Неизвестная Россия
-http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+http://strm.yandex.ru:80/kal/neizvestnaia_rossia/ysign1=3ea01cd06854bbd506fec81d432265a51e3233b24fed26756f76177583d2250e,atrack=audio1_rus,pfx,sfx,ts=65661409,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=9srgs540u0xjp8y
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кухня ТВ

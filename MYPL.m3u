@@ -577,3 +577,115 @@ http://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 group-title="МУЗМИКС", О2ТВ
 http://195.26.83.96:7006/play/1/index.m3u8
+#EXTINF:-1 group-title="МУЗМИКС", Телеканал Радио Страна ФМ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="МУЗМИКС", Stingray CMusic
+http://31.40.155.227:9595/play/c_music_hd
+#EXTINF:-1 group-title="МУЗМИКС", Stingray iConcerts
+http://31.40.155.227:9595/play/iConcerts_HD  
+#EXTINF:-1 group-title="МУЗМИКС", Live Music Channel
+http://91.221.201.2:7013/play/a003/index.m3u8
+#EXTINF:-1 group-title="МУЗХИТЫ", Bridge TV Hits
+http://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="МУЗХИТЫ", Europa Plus TV
+http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 group-title="МУЗХИТЫ", MCM Top
+http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="МУЗХИТЫ", MusicBox Gold 
+http://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="МУЗХИТЫ", MTV Hits
+http://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test 
+#EXTINF:-1 group-title="НАЦИОНАЛЬНАЯ", Russian MusicBox
+http://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="НАЦИОНАЛЬНАЯ", Жар птица 
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 tvg-id="la-minor" group-title="НАЦИОНАЛЬНАЯ", Ля-минор 
+http://146.158.0.56:80/Lya-Minor/mono.m3u8
+#EXTINF:-1 group-title="НАЦИОНАЛЬНАЯ", Bridge TV Русский Хит
+http://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="НАЦИОНАЛЬНАЯ", Maidan
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="НАЦИОНАЛЬНАЯ", TMTV 
+http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="НАЦИОНАЛЬНАЯ", Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия HD
+http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYAHD.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids HD
+http://dmi3y-tv.ru/hls/okko/CH_STSKIDSHD.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
+http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Duck TV HD
+http://dmi3y-tv.ru/hls/okko/CH_DUCKTVHD.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Da Vinci Kids
+http://dmi3y-tv.ru/hls/okko/CH_DAVINCIKIDS.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://dmi3y-tv.ru/hls/smotrim/CH_MOYAPLANETA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
+http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТВ7 HD
+http://dmi3y-tv.ru/hls/CH_TV7HD720.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju Explore HD
+http://dmi3y-tv.ru/hls/okko/CH_VIASATEXPLOREHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TERRA HD
+http://dmi3y-tv.ru/hls/okko/CH_NATGEOHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ратник HD
+http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
+http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кухня ТВ
+http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG HD
+http://dmi3y-tv.ru/hls/okko/CH_RTGHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Звезда плюс HD
+http://dmi3y-tv.ru/hls/CH_3BE3DAPLUSHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Усадьба
+http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", Театр 
+http://146.158.0.56:80/Teatr/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", МосОбр ТВ 
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN РУССКИЙ
+http://dmi3y-tv.ru/hls/CH_CGTN_RU.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN DOCUMENTARY
+http://dmi3y-tv.ru/hls/CH_CGTN_DOCUMENTARY.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",1-вый Национальный канал HD720
+http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RT HD
+http://dmi3y-tv.ru/hls/CH_RTHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RTД HD
+http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Всё ТВ HD
+http://dmi3y-tv.ru/hls/zabava/CH_VSETVHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ HD
+http://dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",TV BRICS HD [RUS]
+http://dmi3y-tv.ru/hls/CH_TVBRICSHD_RUS.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
+http://dmi3y-tv.ru/hls/CH_BASIYA.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ", Большая Азия HD
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Говорит Москва (Москва)
+http://dmi3y-tv.ru/hls/CH_GM_MOS.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] РАДИО ХИТ HD720 (Орск)
+http://dmi3y-tv.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] MCM HD720 [Иркутск]
+http://dmi3y-tv.ru/hls/CH_MCMHD720_IRK.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] RADIO 51
+http://dmi3y-tv.ru/hls/CH_RADIO51.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] M-1 HD720
+http://dmi3y-tv.ru/hls/CH_M1HD720.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Наше время
+http://dmi3y-tv.ru/hls/smotrim/CH_RADIO_RUS.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Радио Маяк
+http://dmi3y-tv.ru/hls/smotrim/CH_RADIO_MAYAK.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] ВЕСТИ FM
+http://dmi3y-tv.ru/hls/smotrim/CH_VESTI_FM.m3u8
+#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Code Fashion TV HD
+http://dmi3y-tv.ru/hls/CH_CODE_FTVHD.m3u8
+#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV HD
+http://dmi3y-tv.ru/hls/CH_FASHIONTVHD.m3u8

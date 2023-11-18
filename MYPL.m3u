@@ -7,8 +7,6 @@ http://dmi3y-tv.ru/hls/okko/CH_RUSSIA1HD.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_MATCHTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1525s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2317s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",НТВ HD
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1472s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1826s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия К
@@ -127,8 +125,6 @@ http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIIHD.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHIT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA HIT HD
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHITHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Amedia Premium HD 
-http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV ORIGINAL HD
 http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START AIR
@@ -140,13 +136,13 @@ http://dmi3y-tv.ru/hls/okko/CH_STARTWORLD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START WORLD HD
 http://dmi3y-tv.ru/hls/okko/CH_STARTWORLDHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ Право 
-http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" tvg-id="ntv-serial", НТВ Сериал HD 
-http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+http://strm.yandex.ru:80/kal/ntv_pravo_new/ysign1=c88533375a04fc5b40366afcf0469a2c69681653467202c874a172accd04f89f,atrack=audio1_rus,pfx,redid=5,sfx,ts=656649e0,unsafe=1,vtrack=169_576p/index-v1-a1.m3u8?vsid=61g4tm1oqh582y0
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ Сериал HD 
+http://strm.yandex.ru:80/kal/ntv_serial_new/ysign1=1cd76940889a08e1088e80af2f783547b47f927131e1656cff6130a9c0cd1ab0,atrack=audio1_rus,pfx,redid=1,sfx,ts=656614f3,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=whnw2owe6nkvdcd
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
-http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" tvg-id="ntv-xit", НТВ-Хит HD 
-http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+http://strm.yandex.ru:80/kal/ntv_stil/ysign1=cdb818b3845a9663bcff72a371b446db2e88ce9a0cd6d71348a8a5608caf5f7f,atrack=audio1_rus,pfx,redid=5,sfx,ts=65665cab,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=jn7u8p1cbz9sehs
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ-Хит HD 
+http://strm.yandex.ru:80/kal/ntv_hit/ysign1=c9f774c29781bb0d45c382a1dc492628e8599bd17e25bfb1d14a68da3fda5563,atrack=audio1_rus,pfx,redid=4,sfx,ts=6566190c,unsafe=1,vtrack=169_720p/index-v1-a1.m3u8?vsid=whq6yavd14pcaas
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
 http://dmi3y-tv.ru/hls/okko/CH_FOX.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО HD

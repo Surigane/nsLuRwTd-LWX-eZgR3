@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://dvb.by/sources/logos/2443s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Первый канал HD
 http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2415s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 1 HD
-https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2303s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Матч! HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1525s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",НТВ HD
@@ -46,7 +46,7 @@ http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Ю
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2131s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Саратов 24 HD
-http://dmitry-tv.ddns.net/hls/zabava/region/SARATOV/CH_SARATOV24HD.m3u8
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/23/44/71/p6r.png" group-title="Советские", Мосфильм. Золотая коллекция 
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvradiomd.ru/wp-content/uploads/2021/10/kino-1-international-1.png" group-title="Советские", Кино 1 International

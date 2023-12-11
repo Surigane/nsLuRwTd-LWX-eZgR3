@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://dvb.by/sources/logos/2443s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Первый канал HD
-http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2415s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 1 HD
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2303s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Матч! HD
@@ -10,25 +10,25 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1472s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1826s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия К
-https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2702s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2587s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Карусель
-https://sirius.greenhosting.ru/Karusel/video.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2106s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",ОТР
-http://94.230.240.17:8080/otp/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3185s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3142s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",РЕН ТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1217s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",СПАС
-https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1870s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",СТС HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1820s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Домашний HD
-http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1870s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1820s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6764s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",ТВ3 HD
-https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Пятница! HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2622s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Звезда

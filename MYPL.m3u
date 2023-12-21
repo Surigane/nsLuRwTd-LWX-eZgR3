@@ -101,6 +101,14 @@ http://rlion1d2.ukminlt.org/iptv/HDPBSB4VBZ7G7U/18166/index.m3u8
 http://rlion1d2.ukminlt.org/iptv/HDPBSB4VBZ7G7U/13080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", VF Воронины
 http://rlion1d2.ukminlt.org/iptv/HDPBSB4VBZ7G7U/13083/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум HD
+http://rlion1d2.ukminlt.org/iptv/HDPBSB4VBZ7G7U/911/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум HD orig
+http://rlion1d2.ukminlt.org/iptv/HDPBSB4VBZ7G7U/5082/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом Кино
+http://rlion1d2.ukminlt.org/iptv/HDPBSB4VBZ7G7U/154/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом Кино orig
+http://rlion1d2.ukminlt.org/iptv/HDPBSB4VBZ7G7U/9136/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс

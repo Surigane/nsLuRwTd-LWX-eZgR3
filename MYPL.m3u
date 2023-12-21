@@ -69,12 +69,20 @@ http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер (LoganetXIPTV)
+http://91.142.158.107:8092/play/26/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер (Zabava)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер (D-TV)
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 http://92.100.39.32:2289/play/kinomiks/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
@@ -634,11 +642,6 @@ https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Москва. Доверие
 http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
-#EXTINF:-1 group-title="Новости", Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Новости", Россия 24 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Новости", BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8 
 #EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
@@ -649,14 +652,6 @@ http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="Новости", Соловьёв.Live HD
 http://dvr-player.smotrim.ru/hls/solovievlive/playlist_6.m3u8
-#EXTINF:-1 group-title="Политические", Вместе-РФ 
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Политические", Дума ТВ 
-https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Политические", Красная линия 
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Политические", ЛДПР ТВ 
-http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Хобби", Моторспорт ТВ
@@ -723,23 +718,6 @@ http://31.40.155.227:9595/play/moya_stihiya
 http://moobl.ru/iptv/Jivi_hd.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир 
 https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
-#EXTINF:-1 group-title="Религия", Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="Религия", МузСоюз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="Религия", Три ангела
-https://hls.tv.3angels.ru/stream.m3u8 
-#EXTINF:-1 group-title="Религия", Спас
-https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 group-title="Телемагазины", Ювелирочка
-http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="Телемагазины", Leomax 24
-http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Телемагазины", Shopping Live
-http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
 rtmp://93.189.60.202//272
 #EXTINF:-1 group-title="Спорт", Setanta Sports+ Ukraine 
@@ -891,10 +869,6 @@ https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Музыка", Муз-ТВ +2
-http://213.59.128.165:8888/play/Muz_TV/index.m3u8
-#EXTINF:-1 group-title="Музыка", Муз-ТВ +4
-http://94.230.240.17:8080/muztv/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge TV Hits
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музыка", Europa Plus TV

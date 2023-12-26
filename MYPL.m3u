@@ -6,7 +6,7 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2303s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Матч! HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1525s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",НТВ HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/213/index.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1472s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1826s.png" group-title="ФЕДЕРАЛЬНЫЕ HD",Россия К
@@ -55,8 +55,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6392/index.m3u8
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10084/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvradiomd.ru/wp-content/uploads/2021/10/kino-1-international-1.png" group-title="Советские", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8 
-#EXTINF:-1 tvg-logo="http://45.155.121.96/images/homepage/ch_7.png" group-title="Советские", BCU СССР HD
-http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1 group-title="Советские", VB Назад в СССР HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20175/index.m3u8
 #EXTINF:-1 group-title="Советские", VF Фильмы СССР
@@ -73,10 +71,10 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13018/index.m3u8
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13019/index.m3u8
 #EXTINF:-1 group-title="Советские", MM USSR Мультфильм HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13020/index.m3u8
-#EXTINF:-1 group-title="Советские", Русский бестселлер
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/905/index.m3u8
 #EXTINF:-1 group-title="Советские", MM USSR Сказки HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13021/index.m3u8
+#EXTINF:-1 group-title="Советские", Русский бестселлер
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/905/index.m3u8
 #EXTINF:-1 group-title="Советские", MM USSR Драма HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13022/index.m3u8
 #EXTINF:-1 group-title="Советские", MM USSR Приключения HD
@@ -93,8 +91,12 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18168/index.m3u8
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19301/index.m3u8
 #EXTINF:-1 group-title="Советские", Ностальгия
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/102/index.m3u8
-#EXTINF:-1 group-title="Комедии", Кинокомедия
-https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8
+#EXTINF:-1 group-title="Советские", Ретро
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2018/index.m3u8
+#EXTINF:-1 group-title="Советские", VB Контент Моего Детства
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20001/index.m3u8
+#EXTINF:-1 group-title="Советские", Yosso TV Советские Фильмы 4K
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19435/index.m3u8
 #EXTINF:-1 group-title="Комедии", Комедия 
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Комедии", Комедийное HD
@@ -115,10 +117,10 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18143/index.m3u8
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/157/index.m3u8
 #EXTINF:-1 group-title="Комедии", Viju+ Comedy HD 
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/200/index.m3u8
-#EXTINF:-1 group-title="Комедии", Cobra Comedy HD 
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20212/index.m3u8
 #EXTINF:-1 group-title="Комедии", Русская Комедия
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/733/index.m3u8
+#EXTINF:-1 group-title="Комедии", Камеди HD
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2441/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы (Edem TV)",Дом Кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/154/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы (Edem TV)",Дом Кино Премиум HD
@@ -131,6 +133,10 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18166/index.m3u8
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы (Edem TV)", MM Воронины HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13031/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы (Edem TV)", VF Воронины
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13083/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы (Edem TV)", VF Солдаты
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13081/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы (Edem TV)",НТВ Право
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/743/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы (Edem TV)",НТВ Сериал
@@ -154,9 +160,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/101/index.m3u8
 #EXTINF:-1,Fox HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19216/index.m3u8
-#EXTINF:-1,Ностальгия
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/102/index.m3u8
 #EXTINF:-1,СТС Love
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/103/index.m3u8
@@ -184,9 +187,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/550/index.m3u8
 #EXTINF:-1,Сапфир
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/553/index.m3u8
-#EXTINF:-1,Дом Кино
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/154/index.m3u8
 #EXTINF:-1,Amedia 1
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/554/index.m3u8
@@ -202,6 +202,9 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/132/index.m3u8
 #EXTINF:-1,Hollywood
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/557/index.m3u8
+#EXTINF:-1,.red HD
+#EXTGRP:кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2062/index.m3u8
 #EXTINF:-1,.red
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/559/index.m3u8
@@ -211,9 +214,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/702/index.m3u8
 #EXTINF:-1,.black
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/708/index.m3u8
-#EXTINF:-1,Русский бестселлер
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/905/index.m3u8
 #EXTINF:-1,Русский роман
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/906/index.m3u8
@@ -226,21 +226,12 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/722/index.m3u8
 #EXTINF:-1,Кино ТВ
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/732/index.m3u8
-#EXTINF:-1,Русская Комедия
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/733/index.m3u8
 #EXTINF:-1,Eye Cyber HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20220/index.m3u8
 #EXTINF:-1,FAN
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/734/index.m3u8
-#EXTINF:-1,НТВ Хит
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/741/index.m3u8
-#EXTINF:-1,НТВ Сериал
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/744/index.m3u8
 #EXTINF:-1,НСТ
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/726/index.m3u8
@@ -256,18 +247,12 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1066/index.m3u8
 #EXTINF:-1,Мир Сериала
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/856/index.m3u8
-#EXTINF:-1,Ретро
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2018/index.m3u8
 #EXTINF:-1,Иллюзион+
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2038/index.m3u8
 #EXTINF:-1,Феникс плюс Кино
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2039/index.m3u8
-#EXTINF:-1,.red HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2062/index.m3u8
 #EXTINF:-1,Киноман
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2121/index.m3u8
@@ -310,9 +295,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2578/index.m3u8
 #EXTINF:-1,Зал 12
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2579/index.m3u8
-#EXTINF:-1,Мосфильм. Золотая коллекция
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6392/index.m3u8
 #EXTINF:-1,Trash HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6396/index.m3u8
@@ -325,9 +307,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10001/index.m3u8
 #EXTINF:-1,VF Cartoon
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10002/index.m3u8
-#EXTINF:-1,VF Comedy
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10003/index.m3u8
 #EXTINF:-1,VF Family
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10004/index.m3u8
@@ -361,9 +340,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10053/index.m3u8
 #EXTINF:-1,VF Classic
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10054/index.m3u8
-#EXTINF:-1,VF Комедия
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10055/index.m3u8
 #EXTINF:-1,VF Катастрофы
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10080/index.m3u8
@@ -376,15 +352,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10082/index.m3u8
 #EXTINF:-1,VF Наша победа
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10083/index.m3u8
-#EXTINF:-1,VF Мосфильм
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10084/index.m3u8
-#EXTINF:-1,VF Фильмы СССР
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10085/index.m3u8
-#EXTINF:-1,VF Мультфильмы СССР
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10086/index.m3u8
 #EXTINF:-1,VF Боевик
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10087/index.m3u8
@@ -406,9 +373,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13003/index.m3u8
 #EXTINF:-1,TOP Cinema HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13004/index.m3u8
-#EXTINF:-1,TOP USSR HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13005/index.m3u8
 #EXTINF:-1,TOP MIX HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13006/index.m3u8
@@ -439,21 +403,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13016/index.m3u8
 #EXTINF:-1,MM UFO HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13017/index.m3u8
-#EXTINF:-1,MM USSR 1941-1945 HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13018/index.m3u8
-#EXTINF:-1,MM USSR Комедия HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13019/index.m3u8
-#EXTINF:-1,MM USSR Мультфильм HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13020/index.m3u8
-#EXTINF:-1,MM USSR Сказки HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13021/index.m3u8
-#EXTINF:-1,MM USSR Фантастика HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13022/index.m3u8
 #EXTINF:-1,MM World Hits HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13023/index.m3u8
@@ -475,9 +424,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13028/index.m3u8
 #EXTINF:-1,MM Вестерн HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13029/index.m3u8
-#EXTINF:-1,MM Воронины HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13031/index.m3u8
 #EXTINF:-1,MM Затмение HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13032/index.m3u8
@@ -493,12 +439,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13035/index.m3u8
 #EXTINF:-1,MM Киберпанк HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13036/index.m3u8
-#EXTINF:-1,MM Комедия Classic HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13037/index.m3u8
-#EXTINF:-1,MM Комедия HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13038/index.m3u8
 #EXTINF:-1,MM Криминал HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13039/index.m3u8
@@ -535,9 +475,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13049/index.m3u8
 #EXTINF:-1,MM Роскино HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13050/index.m3u8
-#EXTINF:-1,MM Сваты HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13051/index.m3u8
 #EXTINF:-1,MM Ситком HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13052/index.m3u8
@@ -562,9 +499,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13058/index.m3u8
 #EXTINF:-1,MM Ужастик HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13059/index.m3u8
-#EXTINF:-1,MM USSR Приключения HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13060/index.m3u8
 #EXTINF:-1,MM Синематограф HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13061/index.m3u8
@@ -580,9 +514,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13064/index.m3u8
 #EXTINF:-1,MM Live Planet HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13095/index.m3u8
-#EXTINF:-1,MM USSR Детектив HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13096/index.m3u8
 #EXTINF:-1,MM Семейный 1 HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13097/index.m3u8
@@ -640,24 +571,9 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13100/index.m3u8
 #EXTINF:-1,UZ Кинокомфорт HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13101/index.m3u8
-#EXTINF:-1,UZ Сваты HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18166/index.m3u8
-#EXTINF:-1,UZ Союзкино HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18167/index.m3u8
-#EXTINF:-1,VF Сваты
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13080/index.m3u8
-#EXTINF:-1,VF Солдаты
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13081/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13082/index.m3u8
-#EXTINF:-1,VF Воронины
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13083/index.m3u8
 #EXTINF:-1,VF Универ
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13084/index.m3u8
@@ -748,9 +664,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19287/index.m3u8
 #EXTINF:-1,Fresh Kids
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19288/index.m3u8
-#EXTINF:-1,Fresh Comedy
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19289/index.m3u8
 #EXTINF:-1,Fresh Premiere
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19290/index.m3u8
@@ -784,18 +697,12 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19299/index.m3u8
 #EXTINF:-1,Fresh Thriller
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19300/index.m3u8
-#EXTINF:-1,Fresh Soviet
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19301/index.m3u8
 #EXTINF:-1,KLI VHS HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18173/index.m3u8
 #EXTINF:-1,KLI Thriller HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18174/index.m3u8
-#EXTINF:-1,KLI СССР HD
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18175/index.m3u8
 #EXTINF:-1,KLI Family HD
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18176/index.m3u8
@@ -862,9 +769,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18141/index.m3u8
 #EXTINF:-1,Prokop TV History
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18142/index.m3u8
-#EXTINF:-1,Prokop TV Comedy
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18143/index.m3u8
 #EXTINF:-1,Prokop TV Fantazy
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18144/index.m3u8
@@ -892,9 +796,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19315/index.m3u8
 #EXTINF:-1,Prokop TV Вторая Мировая
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19316/index.m3u8
-#EXTINF:-1,Prokop TV Сказки СССР
-#EXTGRP:кино
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19317/index.m3u8
 #EXTINF:-1,Amedia Hit
 #EXTGRP:кино
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19218/index.m3u8
@@ -970,9 +871,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/204/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2067/index.m3u8
-#EXTINF:-1,Сочи 24 HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9040/index.m3u8
 #EXTINF:-1,Кинеко HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9135/index.m3u8
@@ -997,15 +895,9 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6138/index.m3u8
 #EXTINF:-1,Discovery Science HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6001/index.m3u8
-#EXTINF:-1,Comedy Central HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6000/index.m3u8
 #EXTINF:-1,Viju+ Premiere HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/202/index.m3u8
-#EXTINF:-1,Viju+ Comedy HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/200/index.m3u8
 #EXTINF:-1,Viju+ Megahit HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/201/index.m3u8
@@ -1033,9 +925,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/211/index.m3u8
 #EXTINF:-1,Матч ТВ HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/212/index.m3u8
-#EXTINF:-1,НТВ HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/213/index.m3u8
 #EXTINF:-1,KHL HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/215/index.m3u8
@@ -1084,12 +973,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/233/index.m3u8
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/904/index.m3u8
-#EXTINF:-1,Дом Кино Премиум HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/911/index.m3u8
-#EXTINF:-1,Комедийное HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/912/index.m3u8
 #EXTINF:-1,Душевное кино HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/914/index.m3u8
@@ -1303,9 +1186,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2439/index.m3u8
 #EXTINF:-1,Наше Мужское HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2440/index.m3u8
-#EXTINF:-1,Камеди HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2441/index.m3u8
 #EXTINF:-1,Viju+ Serial HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2443/index.m3u8
@@ -1336,9 +1216,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19250/index.m3u8
 #EXTINF:-1,HDL HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19251/index.m3u8
-#EXTINF:-1,VB Контент Моего Детства
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20001/index.m3u8
 #EXTINF:-1,KLI Мультики FHD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20048/index.m3u8
@@ -1378,9 +1255,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20156/index.m3u8
 #EXTINF:-1,BOX Mayday HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20159/index.m3u8
-#EXTINF:-1,VB Назад в СССР HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20175/index.m3u8
 #EXTINF:-1,VB Спецназ-Диверсант HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20176/index.m3u8
@@ -1402,9 +1276,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20210/index.m3u8
 #EXTINF:-1,KION Хит HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20211/index.m3u8
-#EXTINF:-1,Cobra Comedy HD
-#EXTGRP:HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20212/index.m3u8
 #EXTINF:-1,Cobra Detektiv HD
 #EXTGRP:HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20213/index.m3u8
@@ -1465,9 +1336,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5004/index.m3u8
 #EXTINF:-1,Сериал UHD 4K
 #EXTGRP:4K
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5005/index.m3u8
-#EXTINF:-1,Yosso TV Советские Фильмы 4K
-#EXTGRP:4K
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19435/index.m3u8
 #EXTINF:-1,UZ Музыка 4K
 #EXTGRP:4K
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18163/index.m3u8

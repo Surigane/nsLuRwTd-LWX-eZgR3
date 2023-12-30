@@ -59,8 +59,6 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20175/index.m3u8
 #EXTINF:-1 group-title="Советские", VF Фильмы СССР
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10085/index.m3u8
-#EXTINF:-1 group-title="Советские", VF Мультфильмы СССР
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10086/index.m3u8
 #EXTINF:-1 group-title="Советские", KLI СССР HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18175/index.m3u8
 #EXTINF:-1 group-title="Советские", Prokop TV Сказки СССР
@@ -73,18 +71,16 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13019/index.m3u8
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13020/index.m3u8
 #EXTINF:-1 group-title="Советские", MM USSR Сказки HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13021/index.m3u8
-#EXTINF:-1 group-title="Советские", Русский бестселлер
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/905/index.m3u8
 #EXTINF:-1 group-title="Советские", MM USSR Драма HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13022/index.m3u8
+#EXTINF:-1 group-title="Советские", Русский бестселлер
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/905/index.m3u8
 #EXTINF:-1 group-title="Советские", MM USSR Приключения HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13060/index.m3u8
 #EXTINF:-1 group-title="Советские", MM USSR Детектив HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13096/index.m3u8
 #EXTINF:-1 group-title="Советские", TOP USSR HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13005/index.m3u8
-#EXTINF:-1 group-title="Советские", UZ Союзкино HD
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18167/index.m3u8
 #EXTINF:-1 group-title="Советские", UZ Союз Мульт HD
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18168/index.m3u8
 #EXTINF:-1 group-title="Советские", Fresh Soviet
@@ -95,8 +91,6 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/102/index.m3u8
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2018/index.m3u8
 #EXTINF:-1 group-title="Советские", VB Контент Моего Детства
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20001/index.m3u8
-#EXTINF:-1 group-title="Советские", Yosso TV Советские Фильмы 4K
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19435/index.m3u8
 #EXTINF:-1 group-title="Комедии", Комедия 
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Комедии", Комедийное HD

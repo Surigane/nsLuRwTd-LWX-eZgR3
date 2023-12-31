@@ -71,15 +71,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2131s.png", Саратов 24 HD
 #EXTGRP:ФЕДЕРАЛЬНЫЕ HD
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:0, BCU СССР HD
-#EXTGRP:Советские
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11026/index.m3u8
 #EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/23/44/71/p6r.png", Мосфильм. Золотая коллекция HD
 #EXTGRP:Советские
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 #EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/23/44/71/p6r.png", Мосфильм. Золотая коллекция
 #EXTGRP:Советские
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6392/index.m3u8
+#EXTINF:0, BCU СССР HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11026/index.m3u8
 #EXTINF:0, VF Мультфильмы СССР
 #EXTGRP:Советские
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10086/index.m3u8
@@ -110,12 +110,12 @@ http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13019/index.m3u8
 #EXTINF:0, MM USSR Мультфильм HD
 #EXTGRP:Советские
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13020/index.m3u8
-#EXTINF:0, MM USSR Сказки HD
-#EXTGRP:Советские
-http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13021/index.m3u8
 #EXTINF:0, Русский бестселлер
 #EXTGRP:Советские
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/905/index.m3u8
+#EXTINF:0, MM USSR Сказки HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13021/index.m3u8
 #EXTINF:0, MM USSR Драма HD
 #EXTGRP:Советские
 http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13022/index.m3u8

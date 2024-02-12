@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.one/ru.xml.gz"
 #EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2443s.png", Первый канал
 #EXTGRP:Федеральные
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8

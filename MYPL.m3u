@@ -1,39 +1,3418 @@
 #EXTM3U
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
-http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
-http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
-http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
-http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
-http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2443s.png", Первый канал
+#EXTGRP:Федеральные
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2415s.png", Россия 1 HD
+#EXTGRP:Федеральные
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2303s.png", Матч! HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/1525s.png", НТВ
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/1472s.png", Пятый канал
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/1826s.png", Россия К
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2702s.png", Россия 24
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2587s.png", Карусель
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2106s.png", ОТР
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/3185s.png", ТВЦ
+#EXTGRP:Федеральные
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/3142s.png", РЕН ТВ
+#EXTGRP:Федеральные
+http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_ORB_RENTV/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/1217s.png", СПАС
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/1870s.png", СТС
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/1820s.png", Домашний
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/6764s.png", ТВ3 HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2830s.png", Пятница!
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2622s.png", Звезда
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2837s.png", МИР HD
+#EXTGRP:Федеральные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2176s.png", ТНТ HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2845s.png", МУЗ ТВ
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:0 tvg-logo="https://sun-tv.ru/static/images/img/logo.png", Солнце
+#EXTGRP:Федеральные
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/1041s.png", Че!
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2678s.png", Ю
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:0 tvg-logo="https://dvb.by/sources/logos/2131s.png", Саратов 24 HD
+#EXTGRP:Федеральные
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/23/44/71/p6r.png", Мосфильм. Золотая коллекция
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6392/index.m3u8
+#EXTINF:0, BCU СССР HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11026/index.m3u8
+#EXTINF:0, VF Мультфильмы СССР
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10086/index.m3u8
+#EXTINF:0, VF Мосфильм
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10084/index.m3u8
+#EXTINF:0,Кино 1 International
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18071/index.m3u8
+#EXTINF:0, VB Назад в СССР HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20175/index.m3u8
+#EXTINF:0, VF Фильмы СССР
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10085/index.m3u8
+#EXTINF:0, KLI СССР HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18175/index.m3u8
+#EXTINF:0, Prokop TV Сказки СССР
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19317/index.m3u8
+#EXTINF:0, MM USSR 1941-1945 HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13018/index.m3u8
+#EXTINF:0, MM USSR Комедия HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13019/index.m3u8
+#EXTINF:0, MM USSR Мультфильм HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13020/index.m3u8
+#EXTINF:0, MM USSR Сказки HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13021/index.m3u8
+#EXTINF:0, Русский бестселлер
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/905/index.m3u8
+#EXTINF:0, MM USSR Драма HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13022/index.m3u8
+#EXTINF:0, MM USSR Приключения HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13060/index.m3u8
+#EXTINF:0, MM USSR Детектив HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13096/index.m3u8
+#EXTINF:0, TOP USSR HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13005/index.m3u8
+#EXTINF:0, UZ Союз Мульт HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18168/index.m3u8
+#EXTINF:0, Fresh Soviet
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19301/index.m3u8
+#EXTINF:0, Ностальгия
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/102/index.m3u8
+#EXTINF:0, Ретро
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2018/index.m3u8
+#EXTINF:0, VB Контент Моего Детства
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20001/index.m3u8
+#EXTINF:0,BCU Media HD OLD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15024/index.m3u8
+#EXTINF:0,Кинозал! СССР
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11061/index.m3u8
+#EXTINF:0,UZ Союзкино HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18167/index.m3u8
+#EXTINF:0,VF Одесская киностудия
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18120/index.m3u8
+#EXTINF:0,VF Ленфильм
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18121/index.m3u8
+#EXTINF:0,VF Киностудия им. Горького
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18122/index.m3u8
+#EXTINF:0,VF Рижская киностудия
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18123/index.m3u8
+#EXTINF:0,VF Свердловская киностудия
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18124/index.m3u8
+#EXTINF:0,VF Беларусьфильм
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18125/index.m3u8
+#EXTINF:0,Yosso TV Советские Фильмы
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14175/index.m3u8
+#EXTINF:0,Dosug TV СССР HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14218/index.m3u8
+#EXTINF:0,KLI Retro HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18177/index.m3u8
+#EXTINF:0,VeleS СССР
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31643/index.m3u8
+#EXTINF:0,Yosso TV Союзмульт
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14178/index.m3u8
+#EXTINF:0,UZ Ну погоди! HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14233/index.m3u8
+#EXTINF:0,UZ Союз Мульт HD
+#EXTGRP:Советские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18168/index.m3u8
+#EXTINF:0, Комедия 
+#EXTGRP:Комедии
+http://91.142.158.107:8092/play/30/index.m3u8
+#EXTINF:0, Комедийное HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/912/index.m3u8
+#EXTINF:0, VF Комедия
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10055/index.m3u8
+#EXTINF:0, MM Комедия Classic HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13037/index.m3u8
+#EXTINF:0, MM Комедия HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13038/index.m3u8
+#EXTINF:0, VF Comedy 
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10003/index.m3u8
+#EXTINF:0, Fresh Comedy 
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19289/index.m3u8
+#EXTINF:0, Prokop TV Comedy 
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18143/index.m3u8
+#EXTINF:0, Comedy Central 
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/157/index.m3u8
+#EXTINF:0, Viju+ Comedy HD 
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/200/index.m3u8
+#EXTINF:0, Русская Комедия
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/733/index.m3u8
+#EXTINF:0, Камеди HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2441/index.m3u8
+#EXTINF:0,Кинокомедия HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7248/index.m3u8
+#EXTINF:0,BCU Comedy OLD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15026/index.m3u8
+#EXTINF:0,UZ Комедия HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14127/index.m3u8
+#EXTINF:0,VF Джеки Чан
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17009/index.m3u8
+#EXTINF:0,VF Наша Раша
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17010/index.m3u8
+#EXTINF:0,Z! Comedy HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14135/index.m3u8
+#EXTINF:0,Yosso TV Забавное
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14234/index.m3u8
+#EXTINF:0,Citrus Comedy
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16151/index.m3u8
+#EXTINF:0,Dosug TV Comedy HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14209/index.m3u8
+#EXTINF:0,Fresh Comedy
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19289/index.m3u8
+#EXTINF:0,KLI Comedy HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16080/index.m3u8
+#EXTINF:0,Kinoshka Comedy HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18057/index.m3u8
+#EXTINF:0,Magic Comedy HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18063/index.m3u8
+#EXTINF:0,KLI Humor HD
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20052/index.m3u8
+#EXTINF:0,КВН ТВ
+#EXTGRP:Комедии
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/546/index.m3u8
+#EXTINF:0, Дом Кино
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/154/index.m3u8
+#EXTINF:0, Дом Кино Премиум HD
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/911/index.m3u8
+#EXTINF:0, MM Сваты HD
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13051/index.m3u8
+#EXTINF:0, UZ Сваты HD
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18166/index.m3u8
+#EXTINF:0, VF Сваты
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13080/index.m3u8
+#EXTINF:0, MM Воронины HD
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13031/index.m3u8
+#EXTINF:0, VF Воронины
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13083/index.m3u8
+#EXTINF:0,CineMan Глухарь + Карпов
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31626/index.m3u8
+#EXTINF:0,UZ 6 Кадров HD
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14231/index.m3u8
+#EXTINF:0,UZ Уральские Пельмени HD
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18169/index.m3u8
+#EXTINF:0,VF Счастливы Вместе
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9242/index.m3u8
+#EXTINF:0, VF Солдаты
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13081/index.m3u8
+#EXTINF:0, НТВ Право
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/743/index.m3u8
+#EXTINF:0, НТВ Сериал
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/744/index.m3u8
+#EXTINF:0, НТВ Хит
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/741/index.m3u8
+#EXTINF:0, НТВ Стиль
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/745/index.m3u8
+#EXTINF:0,НТВ Мир
+#EXTGRP:Кино и сериалы Edem TV
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14035/index.m3u8
+#EXTINF:0,START World
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18032/index.m3u8
+#EXTINF:0,START Air HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18036/index.m3u8
+#EXTINF:0,VB Российские Сериалы
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18043/index.m3u8
+#EXTINF:0,Звезда Плюс HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19230/index.m3u8
+#EXTINF:0,Звезда Плюс
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10059/index.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/103/index.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2086/index.m3u8
+#EXTINF:0,Суббота
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/826/index.m3u8
+#EXTINF:0,Настоящее время
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/986/index.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/104/index.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/748/index.m3u8
+#EXTINF:0,Мособр TV HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16043/index.m3u8
+#EXTINF:0,Точка ТВ
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2053/index.m3u8
+#EXTINF:0,360 HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2065/index.m3u8
+#EXTINF:0,360
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/825/index.m3u8
+#EXTINF:0,Здоровое ТВ
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2022/index.m3u8
+#EXTINF:0,Успех
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2041/index.m3u8
+#EXTINF:0,Кто есть кто
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2042/index.m3u8
+#EXTINF:0,Открытый мир
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2078/index.m3u8
+#EXTINF:0,Загородный
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2099/index.m3u8
+#EXTINF:0,БСТ
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2108/index.m3u8
+#EXTINF:0,Красная линия
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2147/index.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2030/index.m3u8
+#EXTINF:0,ТБН
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/974/index.m3u8
+#EXTINF:0,GNC
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/955/index.m3u8
+#EXTINF:0,Вместе-РФ
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2073/index.m3u8
+#EXTINF:0,Россия-Культура
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/505/index.m3u8
+#EXTINF:0,Ратник
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2119/index.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15118/index.m3u8
+#EXTINF:0,Домашний HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15116/index.m3u8
+#EXTINF:0,RT Documentary HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14157/index.m3u8
+#EXTINF:0,MS Crime HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15136/index.m3u8
+#EXTINF:0,ТВЦ International
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15229/index.m3u8
+#EXTINF:0,ТНТ International
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15230/index.m3u8
+#EXTINF:0,Ника ТВ
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16002/index.m3u8
+#EXTINF:0,Независимые ТВ
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16017/index.m3u8
+#EXTINF:0,Новый Мир
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16022/index.m3u8
+#EXTINF:0,Первый российский национальный канал HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16023/index.m3u8
+#EXTINF:0,Небеса ТВ7 HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16024/index.m3u8
+#EXTINF:0,Министерство идей HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16025/index.m3u8
+#EXTINF:0,ТВ Экстра HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16042/index.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общие
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20083/index.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16075/index.m3u8
+#EXTINF:0,Инфоканал
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/435/index.m3u8
+#EXTINF:0,РБК
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/106/index.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/523/index.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2107/index.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/712/index.m3u8
+#EXTINF:0,Euronews Россия
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/828/index.m3u8
+#EXTINF:0,CGTN русский
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/831/index.m3u8
+#EXTINF:0,Известия
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2008/index.m3u8
+#EXTINF:0,Центральное телевидение
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2064/index.m3u8
+#EXTINF:0,NHK World TV
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/729/index.m3u8
+#EXTINF:0,RT News
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9220/index.m3u8
+#EXTINF:0,100 % NEWS
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16041/index.m3u8
+#EXTINF:0,360 Новости HD
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18038/index.m3u8
+#EXTINF:0,Россия РТР
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18042/index.m3u8
+#EXTINF:0,KLI NEWS HD
+#EXTGRP:Новостные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31633/index.m3u8
+#EXTINF:0,Fox HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19216/index.m3u8
+#EXTINF:0,VF Бесстыжие
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10075/index.m3u8
+#EXTINF:0,VF Владимир Высоцкий 
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10066/index.m3u8
+#EXTINF:0,VF Два с половиной человека
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10062/index.m3u8
+#EXTINF:0,VF Новогодний
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17035/index.m3u8
+#EXTINF:0,VF Ёлки
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14222/index.m3u8
+#EXTINF:0,VF New Year
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15522/index.m3u8
+#EXTINF:0,VF С новым годом!
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15524/index.m3u8
+#EXTINF:0,VF Гарри Поттер
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14230/index.m3u8
+#EXTINF:0,VF Секс в большом городе
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14224/index.m3u8
+#EXTINF:0,VF Карточный домик
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14221/index.m3u8
+#EXTINF:0,VF Disney Movie
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15010/index.m3u8
+#EXTINF:0,VF Теория большого взрыва
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15009/index.m3u8
+#EXTINF:0,Timeless Dizi Channel
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14006/index.m3u8
+#EXTINF:0,TV Rus
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14022/index.m3u8
+#EXTINF:0,CineMan Premium
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20112/index.m3u8
+#EXTINF:0,Fox
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6516/index.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9232/index.m3u8
+#EXTINF:0,Fox Life HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14003/index.m3u8
+#EXTINF:0,MM Family Guy HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19414/index.m3u8
+#EXTINF:0,MM OldSchool HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19413/index.m3u8
+#EXTINF:0,FAN HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16021/index.m3u8
+#EXTINF:0,Amedia Hit HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6010/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/904/index.m3u8
+#EXTINF:0,Про Любовь HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2430/index.m3u8
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2434/index.m3u8
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2436/index.m3u8
+#EXTINF:0,Хит HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2438/index.m3u8
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2439/index.m3u8
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2440/index.m3u8
+#EXTINF:0,Viju+ Serial HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2443/index.m3u8
+#EXTINF:0,Романтичное HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5053/index.m3u8
+#EXTINF:0,Душевное кино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/914/index.m3u8
+#EXTINF:0,Наше HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/915/index.m3u8
+#EXTINF:0,Наше любимое HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2106/index.m3u8
+#EXTINF:0,Кинопремьера HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/224/index.m3u8
+#EXTINF:0,Киноужас HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2056/index.m3u8
+#EXTINF:0,Русский роман HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2076/index.m3u8
+#EXTINF:0,Русский Иллюзион HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2114/index.m3u8
+#EXTINF:0,Дорама HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2131/index.m3u8
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2097/index.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/229/index.m3u8
+#EXTINF:0,Hollywood HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/209/index.m3u8
+#EXTINF:0,Bollywood HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/239/index.m3u8
+#EXTINF:0,Viju+ Premiere HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/202/index.m3u8
+#EXTINF:0,Viju+ Megahit HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/201/index.m3u8
+#EXTINF:0,Epic Drama
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1048/index.m3u8
+#EXTINF:0,День Победы HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5054/index.m3u8
+#EXTINF:0,Победа HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5052/index.m3u8
+#EXTINF:0,Победа
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2003/index.m3u8
+#EXTINF:0,Amedia 2 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2046/index.m3u8
+#EXTINF:0,Viju TV1000 Русское
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/101/index.m3u8
+#EXTINF:0,.sci-fi
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/110/index.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/509/index.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/125/index.m3u8
+#EXTINF:0,Родное Кино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/126/index.m3u8
+#EXTINF:0,Viju TV1000 Action
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/131/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/516/index.m3u8
+#EXTINF:0,Amedia 2
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/510/index.m3u8
+#EXTINF:0,Наше Новое Кино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/517/index.m3u8
+#EXTINF:0,TV XXI
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/525/index.m3u8
+#EXTINF:0,Индийское Кино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/146/index.m3u8
+#EXTINF:0,Киносерия
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/148/index.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/547/index.m3u8
+#EXTINF:0,Еврокино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/549/index.m3u8
+#EXTINF:0,Кинеко
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/550/index.m3u8
+#EXTINF:0,Сапфир
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/553/index.m3u8
+#EXTINF:0,Amedia 1
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/554/index.m3u8
+#EXTINF:0,Amedia Premium
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/555/index.m3u8
+#EXTINF:0,Amedia Hit
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/556/index.m3u8
+#EXTINF:0,Viju TV1000
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/132/index.m3u8
+#EXTINF:0,Мужское Кино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/164/index.m3u8
+#EXTINF:0,Hollywood
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/557/index.m3u8
+#EXTINF:0,.red
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/559/index.m3u8
+#EXTINF:0,2x2
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/702/index.m3u8
+#EXTINF:0,.black
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/708/index.m3u8
+#EXTINF:0,Русский роман
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/906/index.m3u8
+#EXTINF:0,Русский детектив
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/907/index.m3u8
+#EXTINF:0,Любимое Кино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/722/index.m3u8
+#EXTINF:0,Киносвидание
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/728/index.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/732/index.m3u8
+#EXTINF:0,FAN
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/734/index.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/726/index.m3u8
+#EXTINF:0,Индия
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1001/index.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1066/index.m3u8
+#EXTINF:0,Мир Сериала
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/856/index.m3u8
+#EXTINF:0,Иллюзион+
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2038/index.m3u8
+#EXTINF:0,Феникс плюс Кино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2039/index.m3u8
+#EXTINF:0,.red HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2062/index.m3u8
+#EXTINF:0,Киноман
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2121/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5051/index.m3u8
+#EXTINF:0,Зал 1
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2568/index.m3u8
+#EXTINF:0,Зал 2
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2569/index.m3u8
+#EXTINF:0,Зал 3
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2570/index.m3u8
+#EXTINF:0,Зал 4
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2571/index.m3u8
+#EXTINF:0,Зал 5
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2572/index.m3u8
+#EXTINF:0,Зал 6
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2573/index.m3u8
+#EXTINF:0,Зал 7
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2574/index.m3u8
+#EXTINF:0,Зал 8
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2575/index.m3u8
+#EXTINF:0,Зал 9
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2576/index.m3u8
+#EXTINF:0,Зал 10
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2577/index.m3u8
+#EXTINF:0,Зал 11
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2578/index.m3u8
+#EXTINF:0,Зал 12
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2579/index.m3u8
+#EXTINF:0,Шокирующее HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6299/index.m3u8
+#EXTINF:0,Viju TV1000 Action HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6386/index.m3u8
+#EXTINF:0,Viju TV1000 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6387/index.m3u8
+#EXTINF:0,Viju TV1000 Русское HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6388/index.m3u8
+#EXTINF:0,Сапфир HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6389/index.m3u8
+#EXTINF:0,Trash HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6396/index.m3u8
+#EXTINF:0,Хит HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9090/index.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7222/index.m3u8
+#EXTINF:0,Киносемья HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7244/index.m3u8
+#EXTINF:0,Киносвидание HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7245/index.m3u8
+#EXTINF:0,Страшное HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7247/index.m3u8
+#EXTINF:0,Киномикс HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7249/index.m3u8
+#EXTINF:0,Кинохит HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7250/index.m3u8
+#EXTINF:0,KinoJam 1 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7260/index.m3u8
+#EXTINF:0,KinoJam 2 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7261/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7347/index.m3u8
+#EXTINF:0,VF Adventure
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10000/index.m3u8
+#EXTINF:0,VF Anime
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10001/index.m3u8
+#EXTINF:0,VF Cartoon
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10002/index.m3u8
+#EXTINF:0,VF Comedy
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10003/index.m3u8
+#EXTINF:0,VF Family
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10004/index.m3u8
+#EXTINF:0,VF Fantasy
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10005/index.m3u8
+#EXTINF:0,VF Melodrama
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10006/index.m3u8
+#EXTINF:0,VF Mystic
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10007/index.m3u8
+#EXTINF:0,VF Ужасы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10008/index.m3u8
+#EXTINF:0,VF VHS MIX
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10009/index.m3u8
+#EXTINF:0,VF Ужасы VHS
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10010/index.m3u8
+#EXTINF:0,VF Премьера
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10051/index.m3u8
+#EXTINF:0,VF Premiere
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10052/index.m3u8
+#EXTINF:0,VF Классика
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10053/index.m3u8
+#EXTINF:0,VF Classic
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10054/index.m3u8
+#EXTINF:0,VF Катастрофы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10080/index.m3u8
+#EXTINF:0,VF Marvel
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10081/index.m3u8
+#EXTINF:0,VF Военные
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10082/index.m3u8
+#EXTINF:0,VF Наша победа
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10083/index.m3u8
+#EXTINF:0,VF Боевик
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10087/index.m3u8
+#EXTINF:0,Мужское Кино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10045/index.m3u8
+#EXTINF:0,Капитан Фантастика HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10046/index.m3u8
+#EXTINF:0,Flix Snip
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10060/index.m3u8
+#EXTINF:0,Backus TV Dark HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10061/index.m3u8
+#EXTINF:0,Shot TV
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/526/index.m3u8
+#EXTINF:0,CineMan
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11004/index.m3u8
+#EXTINF:0,CineMan Top
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11005/index.m3u8
+#EXTINF:0,CineMan Action
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11006/index.m3u8
+#EXTINF:0,CineMan Thriller
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11007/index.m3u8
+#EXTINF:0,CineMan Мелодрама
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11008/index.m3u8
+#EXTINF:0,CineMan Marvel
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11009/index.m3u8
+#EXTINF:0,CineMan Ужасы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11010/index.m3u8
+#EXTINF:0,CineMan Комедия
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11011/index.m3u8
+#EXTINF:0,CineMan VHS
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11012/index.m3u8
+#EXTINF:0,CineMan РуКино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11013/index.m3u8
+#EXTINF:0,CineMan Сваты
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11014/index.m3u8
+#EXTINF:0,CineMan Катастрофы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15106/index.m3u8
+#EXTINF:0,CineMan Ментовские войны
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16063/index.m3u8
+#EXTINF:0,CineMan ПёС
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16064/index.m3u8
+#EXTINF:0,CineMan Лесник
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16065/index.m3u8
+#EXTINF:0,CineMan MiniSeries
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19437/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 1 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11015/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 2 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11016/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 3 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11017/index.m3u8
+#EXTINF:0,BCU Action HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11027/index.m3u8
+#EXTINF:0,BCU Catastrophe HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11028/index.m3u8
+#EXTINF:0,BCU Cinema HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11029/index.m3u8
+#EXTINF:0,BCU Cinema+ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11030/index.m3u8
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11032/index.m3u8
+#EXTINF:0,BCU FilMystic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11033/index.m3u8
+#EXTINF:0,BCU History HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11034/index.m3u8
+#EXTINF:0,BCU Kinorating HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11037/index.m3u8
+#EXTINF:0,BCU Marvel HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11038/index.m3u8
+#EXTINF:0,BCU Premiere HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11039/index.m3u8
+#EXTINF:0,BCU Romantic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11040/index.m3u8
+#EXTINF:0,BCU Russian HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11041/index.m3u8
+#EXTINF:0,BCU VHS HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11042/index.m3u8
+#EXTINF:0,BCU Media HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11043/index.m3u8
+#EXTINF:0,BCU Stars HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11044/index.m3u8
+#EXTINF:0,BCU RuSerial HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11046/index.m3u8
+#EXTINF:0,BCU Сваты HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11047/index.m3u8
+#EXTINF:0,BCU Criminal HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11048/index.m3u8
+#EXTINF:0,BCU Marvel OLD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15025/index.m3u8
+#EXTINF:0,BCU Reality HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16082/index.m3u8
+#EXTINF:0,BCU Reality OLD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16083/index.m3u8
+#EXTINF:0,BCU Survival HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17019/index.m3u8
+#EXTINF:0,BCU Survival OLD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17020/index.m3u8
+#EXTINF:0,BCU Cosmo HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17021/index.m3u8
+#EXTINF:0,BCU Cosmo OLD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17022/index.m3u8
+#EXTINF:0,BCU TruMotion HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17054/index.m3u8
+#EXTINF:0,BCU Romantic OLD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18052/index.m3u8
+#EXTINF:0,Backus TV Original HD 
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11049/index.m3u8
+#EXTINF:0,BEST Films HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11050/index.m3u8
+#EXTINF:0,Lost HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11053/index.m3u8
+#EXTINF:0,Sky2000 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11054/index.m3u8
+#EXTINF:0,The X-Files
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11055/index.m3u8
+#EXTINF:0,Кинозал! VHS HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11059/index.m3u8
+#EXTINF:0,Кинозал! Интерны ТВ
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11060/index.m3u8
+#EXTINF:0,Кинозал! Сваты
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11062/index.m3u8
+#EXTINF:0,Кинозал! Универ ТВ
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11063/index.m3u8
+#EXTINF:0,Кинозал! ХИТ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11064/index.m3u8
+#EXTINF:0,Космо HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11065/index.m3u8
+#EXTINF:0,Страх HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11069/index.m3u8
+#EXTINF:0,Фантастика HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11070/index.m3u8
+#EXTINF:0,Юнит HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11071/index.m3u8
+#EXTINF:0,Premiere HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11094/index.m3u8
+#EXTINF:0,Premium HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11095/index.m3u8
+#EXTINF:0,РуКино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11096/index.m3u8
+#EXTINF:0,Victory HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11097/index.m3u8
+#EXTINF:0,Paradox HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11098/index.m3u8
+#EXTINF:0,Thriller HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11099/index.m3u8
+#EXTINF:0,Paradise HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11100/index.m3u8
+#EXTINF:0,Serial HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11101/index.m3u8
+#EXTINF:0,VHS HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15000/index.m3u8
+#EXTINF:0,VB VHS Classic
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19429/index.m3u8
+#EXTINF:0,Илья ТВ Кино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11103/index.m3u8
+#EXTINF:0,Илья ТВ Микс HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11104/index.m3u8
+#EXTINF:0,Илья ТВ Музыка HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11105/index.m3u8
+#EXTINF:0,Илья ТВ Наше HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11106/index.m3u8
+#EXTINF:0,VF TOP Series
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11116/index.m3u8
+#EXTINF:0,VF Art house
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11119/index.m3u8
+#EXTINF:0,VF Detective
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11120/index.m3u8
+#EXTINF:0,VF Fantastic
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11121/index.m3u8
+#EXTINF:0,VF Оскар
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11122/index.m3u8
+#EXTINF:0,TOP Великолепный Век HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13001/index.m3u8
+#EXTINF:0,TOP 80 S HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13002/index.m3u8
+#EXTINF:0,TOP BUDO HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13003/index.m3u8
+#EXTINF:0,TOP Cinema HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13004/index.m3u8
+#EXTINF:0,TOP MIX HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13006/index.m3u8
+#EXTINF:0,MM 007 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13009/index.m3u8
+#EXTINF:0,MM Love HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13010/index.m3u8
+#EXTINF:0,MM NewFilm 1 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13011/index.m3u8
+#EXTINF:0,MM NewFilm 2 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13012/index.m3u8
+#EXTINF:0,MM NewFilm 3 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13013/index.m3u8
+#EXTINF:0,MM NewFilm RU HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13014/index.m3u8
+#EXTINF:0,MM Rock HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13015/index.m3u8
+#EXTINF:0,MM Tom and Jerry HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13016/index.m3u8
+#EXTINF:0,MM UFO HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13017/index.m3u8
+#EXTINF:0,MM World Hits HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13023/index.m3u8
+#EXTINF:0,MM Агата Кристи HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13024/index.m3u8
+#EXTINF:0,MM Грайндхаус HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13025/index.m3u8
+#EXTINF:0,MM Honey HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13026/index.m3u8
+#EXTINF:0,MM Боевик Classic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13027/index.m3u8
+#EXTINF:0,MM Боевик HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13028/index.m3u8
+#EXTINF:0,MM Вестерн HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13029/index.m3u8
+#EXTINF:0,MM Затмение HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13032/index.m3u8
+#EXTINF:0,MM История HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13033/index.m3u8
+#EXTINF:0,MM Катастрофа HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13034/index.m3u8
+#EXTINF:0,MM Квартирник HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13035/index.m3u8
+#EXTINF:0,MM Киберпанк HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13036/index.m3u8
+#EXTINF:0,MM Комедия Classic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13037/index.m3u8
+#EXTINF:0,MM Комедия HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13038/index.m3u8
+#EXTINF:0,MM Криминал HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13039/index.m3u8
+#EXTINF:0,MM Крутые 90-е HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13040/index.m3u8
+#EXTINF:0,MM Кунг-Фу HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13041/index.m3u8
+#EXTINF:0,MM Lesson HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13042/index.m3u8
+#EXTINF:0,MM Smile HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13043/index.m3u8
+#EXTINF:0,MM Мифология HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13044/index.m3u8
+#EXTINF:0,MM Нуар HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13045/index.m3u8
+#EXTINF:0,MM Ситком 2.0 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13046/index.m3u8
+#EXTINF:0,MM Погружение HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13047/index.m3u8
+#EXTINF:0,MM Приключения HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13048/index.m3u8
+#EXTINF:0,MM Полицейский с Рублёвки HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13049/index.m3u8
+#EXTINF:0,MM Роскино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13050/index.m3u8
+#EXTINF:0,MM Ситком HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13052/index.m3u8
+#EXTINF:0,MM Скорость HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13053/index.m3u8
+#EXTINF:0,MM Спорт HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13054/index.m3u8
+#EXTINF:0,MM Стивен Кинг HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13055/index.m3u8
+#EXTINF:0,MM Супергерои HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13056/index.m3u8
+#EXTINF:0,MM Триллер HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13058/index.m3u8
+#EXTINF:0,MM Ужастик HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13059/index.m3u8
+#EXTINF:0,MM Синематограф HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13061/index.m3u8
+#EXTINF:0,MM Фантастика HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13062/index.m3u8
+#EXTINF:0,MM Фобия HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13063/index.m3u8
+#EXTINF:0,MM Walt Disney HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13064/index.m3u8
+#EXTINF:0,MM Live Planet HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13095/index.m3u8
+#EXTINF:0,MM Семейный 1 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13097/index.m3u8
+#EXTINF:0,MM Семейный 2 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13098/index.m3u8
+#EXTINF:0,MM Ужасы HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13099/index.m3u8
+#EXTINF:0,MM Ужасы Classic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14128/index.m3u8
+#EXTINF:0,MM Celebrity HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16084/index.m3u8
+#EXTINF:0,MM Classic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16085/index.m3u8
+#EXTINF:0,MM Драма HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16086/index.m3u8
+#EXTINF:0,UZ Фантастика HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13065/index.m3u8
+#EXTINF:0,UZ Мультзал HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13066/index.m3u8
+#EXTINF:0,UZ Klip New HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13067/index.m3u8
+#EXTINF:0,UZ Ужасное ТВ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13068/index.m3u8
+#EXTINF:0,UZ Приключение HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13069/index.m3u8
+#EXTINF:0,UZ Бойцовское кино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13070/index.m3u8
+#EXTINF:0,UZ Ералаш ТВ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13071/index.m3u8
+#EXTINF:0,UZ Малютка ТВ
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13072/index.m3u8
+#EXTINF:0,UZ Kino2 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13073/index.m3u8
+#EXTINF:0,UZ Kino1 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13074/index.m3u8
+#EXTINF:0,UZ Kino3 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13075/index.m3u8
+#EXTINF:0,UZ Kino4 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13076/index.m3u8
+#EXTINF:0,UZ Боевики HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13077/index.m3u8
+#EXTINF:0,UZ Tom and Jerry HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13078/index.m3u8
+#EXTINF:0,UZ Витек ТВ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13100/index.m3u8
+#EXTINF:0,UZ Кинокомфорт HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13101/index.m3u8
+#EXTINF:0,UZ Кино Новинки HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14126/index.m3u8
+#EXTINF:0,UZ TV HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14220/index.m3u8
+#EXTINF:0,UZ Kino5 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14232/index.m3u8
+#EXTINF:0,UZ Swiridenko TV HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18106/index.m3u8
+#EXTINF:0,UZ Swiridenko TV HD 2
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18107/index.m3u8
+#EXTINF:0,UZ Катастрофа HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18164/index.m3u8
+#EXTINF:0,VF Тайны следствия
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13082/index.m3u8
+#EXTINF:0,VF Универ
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13084/index.m3u8
+#EXTINF:0,VF Series
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13085/index.m3u8
+#EXTINF:0,VF След
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13086/index.m3u8
+#EXTINF:0,VF Сериал
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13087/index.m3u8
+#EXTINF:0,VF Мыльные оперы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13088/index.m3u8
+#EXTINF:0,VF Thriller
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13089/index.m3u8
+#EXTINF:0,VF Индия
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13090/index.m3u8
+#EXTINF:0,VF История
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13091/index.m3u8
+#EXTINF:0,VF Comics
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13092/index.m3u8
+#EXTINF:0,VF Криминал
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13093/index.m3u8
+#EXTINF:0,VF Клиника
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13094/index.m3u8
+#EXTINF:0,VF Луи де Фюнес
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17000/index.m3u8
+#EXTINF:0,VF Чернобыль
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17001/index.m3u8
+#EXTINF:0,VF The X-Files
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17002/index.m3u8
+#EXTINF:0,VF Сверхъестественное
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17003/index.m3u8
+#EXTINF:0,VF Леонид Гайдай
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17004/index.m3u8
+#EXTINF:0,VF Американская история ужасов
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17005/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17006/index.m3u8
+#EXTINF:0,VF СашаТаня
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17008/index.m3u8
+#EXTINF:0,VF Привет из 90х
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17011/index.m3u8
+#EXTINF:0,VF Эльдар Рязанов
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17012/index.m3u8
+#EXTINF:0,VF Универ новая общага
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17013/index.m3u8
+#EXTINF:0,VF Ходячие мертвецы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17014/index.m3u8
+#EXTINF:0,VF Реальные пацаны
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17015/index.m3u8
+#EXTINF:0,VF Доктор Хаус
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17016/index.m3u8
+#EXTINF:0,VF Без цензуры
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17017/index.m3u8
+#EXTINF:0,VF Городок
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18097/index.m3u8
+#EXTINF:0,VF Comedy Woman
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18101/index.m3u8
+#EXTINF:0,VF Игра престолов
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18119/index.m3u8
+#EXTINF:0,VF Netflix
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19427/index.m3u8
+#EXTINF:0,VF HBO
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19428/index.m3u8
+#EXTINF:0,Z! Channel HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14134/index.m3u8
+#EXTINF:0,Z! Crime HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14136/index.m3u8
+#EXTINF:0,Z! Horror HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14137/index.m3u8
+#EXTINF:0,Z! Serial HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15140/index.m3u8
+#EXTINF:0,Z! Sitcom HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15141/index.m3u8
+#EXTINF:0,Z! Smile HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15142/index.m3u8
+#EXTINF:0,Millennium TV HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14160/index.m3u8
+#EXTINF:0,Akudji TV HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14161/index.m3u8
+#EXTINF:0,Yosso TV Grand
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14171/index.m3u8
+#EXTINF:0,Yosso TV VHS
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14172/index.m3u8
+#EXTINF:0,Yosso TV Русские Фильмы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14174/index.m3u8
+#EXTINF:0,Yosso TV New Кино
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14177/index.m3u8
+#EXTINF:0,Yosso TV Трагичное
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14219/index.m3u8
+#EXTINF:0,Yosso TV Ковбойское
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14235/index.m3u8
+#EXTINF:0,Yosso TV Best
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14236/index.m3u8
+#EXTINF:0,Yosso TV Adrenaline
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15105/index.m3u8
+#EXTINF:0,Yosso TV Thriller
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15168/index.m3u8
+#EXTINF:0,Yosso TV Oblivion
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15509/index.m3u8
+#EXTINF:0,Yosso TV Adventure
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15510/index.m3u8
+#EXTINF:0,Yosso TV Мелодрама
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19434/index.m3u8
+#EXTINF:0,Yosso TV Netflix
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20163/index.m3u8
+#EXTINF:0,Yosso TV Disney
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20164/index.m3u8
+#EXTINF:0,Yosso TV Best 60 FPS
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20165/index.m3u8
+#EXTINF:0,Citrus Inquest
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16152/index.m3u8
+#EXTINF:0,Citrus History
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18139/index.m3u8
+#EXTINF:0,Dosug TV Fantastic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14210/index.m3u8
+#EXTINF:0,Dosug TV History HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14211/index.m3u8
+#EXTINF:0,Dosug TV Hit HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14212/index.m3u8
+#EXTINF:0,Dosug TV Horror HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14213/index.m3u8
+#EXTINF:0,Dosug TV Kids HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14214/index.m3u8
+#EXTINF:0,Dosug TV Marvel HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14215/index.m3u8
+#EXTINF:0,Dosug TV New HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14216/index.m3u8
+#EXTINF:0,Dosug TV Russian HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14217/index.m3u8
+#EXTINF:0,Dosug TV VHS
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14225/index.m3u8
+#EXTINF:0,Dosug TV Ходячие мертвецы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14226/index.m3u8
+#EXTINF:0,Dosug TV Сериал
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14227/index.m3u8
+#EXTINF:0,Dosug TV Сваты
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14228/index.m3u8
+#EXTINF:0,Твое ТВ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14229/index.m3u8
+#EXTINF:0,SKY HIGH SERIES HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14240/index.m3u8
+#EXTINF:0,SKY HIGH HEROES HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14242/index.m3u8
+#EXTINF:0,SKY HIGH EPOCH HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14243/index.m3u8
+#EXTINF:0,SKY HIGH FRESH HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14244/index.m3u8
+#EXTINF:0,SKY HIGH MIX 3D
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14246/index.m3u8
+#EXTINF:0,SKY HIGH SPIRIT HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14249/index.m3u8
+#EXTINF:0,SKY HIGH FUTURE HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15103/index.m3u8
+#EXTINF:0,SKY HIGH ADULT HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15166/index.m3u8
+#EXTINF:0,SKY HIGH RUSSIAN HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16060/index.m3u8
+#EXTINF:0,SKY HIGH NOIR HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16061/index.m3u8
+#EXTINF:0,SKY HIGH FRESH HDR
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16066/index.m3u8
+#EXTINF:0,SKY HIGH ЧБУ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16142/index.m3u8
+#EXTINF:0,SKY HIGH ORIG HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19310/index.m3u8
+#EXTINF:0,SKY HIGH LO FI HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19312/index.m3u8
+#EXTINF:0,SKY HIGH BRAIN HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19404/index.m3u8
+#EXTINF:0,SKY HIGH ANIME HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19405/index.m3u8
+#EXTINF:0,Liberty Мелодрамы FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15095/index.m3u8
+#EXTINF:0,Liberty Боевики FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15096/index.m3u8
+#EXTINF:0,Liberty Симпсоны FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15111/index.m3u8
+#EXTINF:0,Liberty Сваты FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15164/index.m3u8
+#EXTINF:0,Liberty SouthPark FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16053/index.m3u8
+#EXTINF:0,Liberty Комедии FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16054/index.m3u8
+#EXTINF:0,Liberty Сериалы FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16055/index.m3u8
+#EXTINF:0,Liberty Аниме FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17029/index.m3u8
+#EXTINF:0,Liberty Сказки FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19304/index.m3u8
+#EXTINF:0,Liberty МиМ FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19306/index.m3u8
+#EXTINF:0,Liberty Фан FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19403/index.m3u8
+#EXTINF:0,UZ Кинозал HEVC HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15099/index.m3u8
+#EXTINF:0,CineMan Скорая Помощь
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15100/index.m3u8
+#EXTINF:0,CineMan Симпсоны
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15101/index.m3u8
+#EXTINF:0,MS Prisons HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15137/index.m3u8
+#EXTINF:0,MS Toons HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15138/index.m3u8
+#EXTINF:0,MS Magic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16143/index.m3u8
+#EXTINF:0,MS Young Blood HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16147/index.m3u8
+#EXTINF:0,MS Animated HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17024/index.m3u8
+#EXTINF:0,Премьера Трейлеры
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16009/index.m3u8
+#EXTINF:0,PZN HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16037/index.m3u8
+#EXTINF:0,Видеокассета VHS
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16049/index.m3u8
+#EXTINF:0,Citrus Cartoon
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16050/index.m3u8
+#EXTINF:0,Citrus Marvel
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16051/index.m3u8
+#EXTINF:0,Fresh Cinema
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19287/index.m3u8
+#EXTINF:0,Fresh Kids
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19288/index.m3u8
+#EXTINF:0,Fresh Premiere
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19290/index.m3u8
+#EXTINF:0,Fresh Family
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19291/index.m3u8
+#EXTINF:0,Fresh Rating
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19292/index.m3u8
+#EXTINF:0,Fresh VHS
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19293/index.m3u8
+#EXTINF:0,Fresh Fantastic
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19294/index.m3u8
+#EXTINF:0,Fresh Series
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19295/index.m3u8
+#EXTINF:0,Fresh Horror
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19296/index.m3u8
+#EXTINF:0,Fresh Adventure
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19297/index.m3u8
+#EXTINF:0,Fresh Romantic
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19298/index.m3u8
+#EXTINF:0,Fresh Russian
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19299/index.m3u8
+#EXTINF:0,Fresh Thriller
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19300/index.m3u8
+#EXTINF:0,KLI Cinema HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16078/index.m3u8
+#EXTINF:0,KLI History HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18047/index.m3u8
+#EXTINF:0,KLI Premium HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18048/index.m3u8
+#EXTINF:0,KLI Russian HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18049/index.m3u8
+#EXTINF:0,KLI Fantastic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18050/index.m3u8
+#EXTINF:0,KLI VHS HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18173/index.m3u8
+#EXTINF:0,KLI Thriller HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18174/index.m3u8
+#EXTINF:0,KLI Family HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18176/index.m3u8
+#EXTINF:0,KLI Киносерия FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19400/index.m3u8
+#EXTINF:0,KLI Horror FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20050/index.m3u8
+#EXTINF:0,KLI Action FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20051/index.m3u8
+#EXTINF:0,KLI Drama FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20053/index.m3u8
+#EXTINF:0,KLI Fantasy FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20054/index.m3u8
+#EXTINF:0,Christmas HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17031/index.m3u8
+#EXTINF:0,Eye Media HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17064/index.m3u8
+#EXTINF:0,Eye Oscar HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17065/index.m3u8
+#EXTINF:0,Eye Frozen HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17066/index.m3u8
+#EXTINF:0,Eye Criminal HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17067/index.m3u8
+#EXTINF:0,Eye Modern HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17068/index.m3u8
+#EXTINF:0,Kinoshka Thriller HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18055/index.m3u8
+#EXTINF:0,Kinoshka Russian HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18058/index.m3u8
+#EXTINF:0,Kinoshka Mystic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18059/index.m3u8
+#EXTINF:0,Kinoshka Premiere HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18117/index.m3u8
+#EXTINF:0,Kinoshka Action HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18118/index.m3u8
+#EXTINF:0,Kinoshka Drama HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18150/index.m3u8
+#EXTINF:0,Magic Karate HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18061/index.m3u8
+#EXTINF:0,Magic VHS HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18062/index.m3u8
+#EXTINF:0,Magic Thriller HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18065/index.m3u8
+#EXTINF:0,Magic Action HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18066/index.m3u8
+#EXTINF:0,Magic Galaxy HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18067/index.m3u8
+#EXTINF:0,Magic Horror HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18068/index.m3u8
+#EXTINF:0,Magic Family HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18170/index.m3u8
+#EXTINF:0,Magic Love HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18171/index.m3u8
+#EXTINF:0,Кино 1 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18069/index.m3u8
+#EXTINF:0,Кино 2 HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18070/index.m3u8
+#EXTINF:0,Военное кино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18072/index.m3u8
+#EXTINF:0,Детское кино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18073/index.m3u8
+#EXTINF:0,Детское кино International
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18074/index.m3u8
+#EXTINF:0,Кинозал 1
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18126/index.m3u8
+#EXTINF:0,Кинозал 2
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18127/index.m3u8
+#EXTINF:0,Кинозал 3
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18128/index.m3u8
+#EXTINF:0,Кинозал 4
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18129/index.m3u8
+#EXTINF:0,Кинозал 5
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18130/index.m3u8
+#EXTINF:0,Кинозал 6
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18131/index.m3u8
+#EXTINF:0,Кинозал 7
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18132/index.m3u8
+#EXTINF:0,Кинозал 8
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18133/index.m3u8
+#EXTINF:0,Кинозал 9
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18134/index.m3u8
+#EXTINF:0,Кинозал 10
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18135/index.m3u8
+#EXTINF:0,Кинозал 11
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18136/index.m3u8
+#EXTINF:0,Кинозал 12
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18137/index.m3u8
+#EXTINF:0,Prokop TV Criminal
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18140/index.m3u8
+#EXTINF:0,Prokop TV History
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18142/index.m3u8
+#EXTINF:0,Prokop TV Fantazy
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18144/index.m3u8
+#EXTINF:0,Prokop TV Horror
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18145/index.m3u8
+#EXTINF:0,Prokop TV Cinema Best
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18147/index.m3u8
+#EXTINF:0,Prokop TV Music
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18148/index.m3u8
+#EXTINF:0,Prokop TV Serial
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19271/index.m3u8
+#EXTINF:0,Prokop TV Netflix
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19272/index.m3u8
+#EXTINF:0,Prokop TV Docu
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19314/index.m3u8
+#EXTINF:0,Prokop TV Cinema 60 fps
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19315/index.m3u8
+#EXTINF:0,Prokop TV Вторая Мировая
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19316/index.m3u8
+#EXTINF:0,Amedia Hit
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19218/index.m3u8
+#EXTINF:0,Киносерия HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19229/index.m3u8
+#EXTINF:0,Наше Новое Кино HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19231/index.m3u8
+#EXTINF:0,Cinema HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19233/index.m3u8
+#EXTINF:0,BOX Franchise HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19274/index.m3u8
+#EXTINF:0,BOX Hybrid HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19275/index.m3u8
+#EXTINF:0,BOX Anime HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19276/index.m3u8
+#EXTINF:0,BOX Gangster HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19277/index.m3u8
+#EXTINF:0,BOX Oscar HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19278/index.m3u8
+#EXTINF:0,BOX Memory HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19279/index.m3u8
+#EXTINF:0,BOX M.Serial HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19280/index.m3u8
+#EXTINF:0,BOX Serial HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19281/index.m3u8
+#EXTINF:0,BOX Game HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19284/index.m3u8
+#EXTINF:0,BOX Spy HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19285/index.m3u8
+#EXTINF:0,BOX Travel HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19418/index.m3u8
+#EXTINF:0,BOX Western HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19419/index.m3u8
+#EXTINF:0,BOX Zombie HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19420/index.m3u8
+#EXTINF:0,BOX Cyber HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19421/index.m3u8
+#EXTINF:0,KLI Club FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19319/index.m3u8
+#EXTINF:0,Insomnia HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19398/index.m3u8
+#EXTINF:0,MYTV
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19407/index.m3u8
+#EXTINF:0,MYTV 2
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19408/index.m3u8
+#EXTINF:0,MYTV 3
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19411/index.m3u8
+#EXTINF:0,MYTV HIT
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19410/index.m3u8
+#EXTINF:0,Citrus Live HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19436/index.m3u8
+#EXTINF:0,Liberty Планктон FHD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20140/index.m3u8
+#EXTINF:0,Magic Adventure HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20141/index.m3u8
+#EXTINF:0,BOX Ghost HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20154/index.m3u8
+#EXTINF:0,BOX Stories HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20155/index.m3u8
+#EXTINF:0,BOX Fantasy HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20156/index.m3u8
+#EXTINF:0,BOX Mayday HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20159/index.m3u8
+#EXTINF:0,VB Спецназ-Диверсант HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20176/index.m3u8
+#EXTINF:0,KLI Netflix HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20177/index.m3u8
+#EXTINF:0,DetectiveJam HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20209/index.m3u8
+#EXTINF:0,FamilyJam HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20210/index.m3u8
+#EXTINF:0,KION Хит HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20211/index.m3u8
+#EXTINF:0,Cobra Detektiv HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20213/index.m3u8
+#EXTINF:0,Cobra Melodrama HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20214/index.m3u8
+#EXTINF:0,Cobra Triller HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20215/index.m3u8
+#EXTINF:0,Eye Family HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20216/index.m3u8
+#EXTINF:0,Eye History HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20217/index.m3u8
+#EXTINF:0,Eye Western HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20218/index.m3u8
+#EXTINF:0,Eye Drive HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20219/index.m3u8
+#EXTINF:0,Eye Cyber HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20220/index.m3u8
+#EXTINF:0,MM Кинофестиваль HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31621/index.m3u8
+#EXTINF:0,VB Сваты HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31624/index.m3u8
+#EXTINF:0,Ужас ТВ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31625/index.m3u8
+#EXTINF:0,CineMan Интерны
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31627/index.m3u8
+#EXTINF:0,CineMan Универ
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31628/index.m3u8
+#EXTINF:0,CineMan Фитнес
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31629/index.m3u8
+#EXTINF:0,Magic Russian HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31630/index.m3u8
+#EXTINF:0,KLI Millennium
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31631/index.m3u8
+#EXTINF:0,KLI MARVEL HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31632/index.m3u8
+#EXTINF:0,KLI Franchise HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31634/index.m3u8
+#EXTINF:0,KLI Новогодний
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31635/index.m3u8
+#EXTINF:0,KLI Relax HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31636/index.m3u8
+#EXTINF:0,VeleS 60FPS
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31637/index.m3u8
+#EXTINF:0,VeleS Киноплёнка
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31638/index.m3u8
+#EXTINF:0,VeleS Киносерия
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31640/index.m3u8
+#EXTINF:0,VeleS Premiere
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31641/index.m3u8
+#EXTINF:0,VeleS Страшное
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31642/index.m3u8
+#EXTINF:0,VeleS Movie Hits
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31644/index.m3u8
+#EXTINF:0,Kinoshka Ukraine HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31647/index.m3u8
+#EXTINF:0,box_apocalypse_hd
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31655/index.m3u8
+#EXTINF:0,box_remast_plus_4k
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31656/index.m3u8
+#EXTINF:0,BOX_SERIAL_4K
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31657/index.m3u8
+#EXTINF:0,BCU Russia 90s HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31658/index.m3u8
+#EXTINF:0,LIBERTYDREAMWORKS4K
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31661/index.m3u8
+#EXTINF:0,LIBERTYCRIMINAL4K
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31663/index.m3u8
+#EXTINF:0,LIBERTYAVANPOST4K
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31664/index.m3u8
+#EXTINF:0,LIBERTYSERIALY4K
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31665/index.m3u8
+#EXTINF:0,Prokop TV New Films HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31667/index.m3u8
+#EXTINF:0,Prokop TV Kung Fu
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31668/index.m3u8
+#EXTINF:0,Prokop TV Show HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31669/index.m3u8
+#EXTINF:0,Cobra Drama HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31673/index.m3u8
+#EXTINF:0,Prokop TV Новогодний
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31683/index.m3u8
+#EXTINF:0,UZ Films HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31687/index.m3u8
+#EXTINF:0,UZ RU Serial HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31688/index.m3u8
+#EXTINF:0,UZ Turk Serial HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31689/index.m3u8
+#EXTINF:0,UZ Films 60 fps HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31690/index.m3u8
+#EXTINF:0,UZ ALENSAT HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31692/index.m3u8
+#EXTINF:0,Z!Thriller HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31693/index.m3u8
+#EXTINF:0,Z!Action HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31694/index.m3u8
+#EXTINF:0,Z!Adventure HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31698/index.m3u8
+#EXTINF:0,Z!Detective HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31699/index.m3u8
+#EXTINF:0,Z!Drama HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31700/index.m3u8
+#EXTINF:0,Z!Family HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31701/index.m3u8
+#EXTINF:0,Z!Fantastic HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31702/index.m3u8
+#EXTINF:0,Z!Fantasy HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31703/index.m3u8
+#EXTINF:0,Z!Russian HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31704/index.m3u8
+#EXTINF:0,Z!Fun HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31706/index.m3u8
+#EXTINF:0,Байки из склепа
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31711/index.m3u8
+#EXTINF:0,Громовы
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31712/index.m3u8
+#EXTINF:0,Коломбо
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31713/index.m3u8
+#EXTINF:0,КИНОДРОМ HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31714/index.m3u8
+#EXTINF:0,Кинозал! Bond 007
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31715/index.m3u8
+#EXTINF:0,Однажды в милиции
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31717/index.m3u8
+#EXTINF:0,Ольга HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31718/index.m3u8
+#EXTINF:0,Репка HD
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31719/index.m3u8
+#EXTINF:0,СТРАХ FHD (2.0)
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31720/index.m3u8
+#EXTINF:0,ФАНТАСТИКА FHD (2.0)
+#EXTGRP:Кино
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31722/index.m3u8
+#EXTINF:0,Матч! Премьер
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/531/index.m3u8
+#EXTINF:0,Матч! Премьер HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/220/index.m3u8
+#EXTINF:0,Матч! Игра
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/529/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/225/index.m3u8
+#EXTINF:0,Матч! Арена
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/528/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/207/index.m3u8
+#EXTINF:0,Матч! Страна
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/107/index.m3u8
+#EXTINF:0,Матч! Планета
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/123/index.m3u8
+#EXTINF:0,Матч! Боец
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/150/index.m3u8
+#EXTINF:0,Viju+ Sport HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2007/index.m3u8
+#EXTINF:0,KHL HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/215/index.m3u8
+#EXTINF:0,KHL
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/519/index.m3u8
+#EXTINF:0,FAST&FUN BOX HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1018/index.m3u8
+#EXTINF:0,Viju+ Sport
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/160/index.m3u8
+#EXTINF:0,Окко Спорт HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6554/index.m3u8
+#EXTINF:0,Хоккейный HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10039/index.m3u8
+#EXTINF:0,Спортивный HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10057/index.m3u8
+#EXTINF:0,Red Bull TV
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16039/index.m3u8
+#EXTINF:0,START World HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19248/index.m3u8
+#EXTINF:0,KHL Prime HD
+#EXTGRP:Спорт
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19396/index.m3u8
+#EXTINF:0,Bridge TV Фрэш HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9053/index.m3u8
+#EXTINF:0,VF Легенды Ретро ФМ
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10067/index.m3u8
+#EXTINF:0,VF Музыкальный Новый год!
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16140/index.m3u8
+#EXTINF:0,VF Modern Talking
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14004/index.m3u8
+#EXTINF:0,VF Britney Spears
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14005/index.m3u8
+#EXTINF:0,VF Музыка
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15512/index.m3u8
+#EXTINF:0,VF Music
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15516/index.m3u8
+#EXTINF:0,VF Rock
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15517/index.m3u8
+#EXTINF:0,VF Караоке
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15518/index.m3u8
+#EXTINF:0,VF Шансон
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15519/index.m3u8
+#EXTINF:0,VF Музсоюз
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15521/index.m3u8
+#EXTINF:0,VF Metal
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17033/index.m3u8
+#EXTINF:0,VF Rap
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17034/index.m3u8
+#EXTINF:0,VF Хит-парад
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17036/index.m3u8
+#EXTINF:0,VF Русский рок
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17037/index.m3u8
+#EXTINF:0,Yosso TV Music Hits
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14179/index.m3u8
+#EXTINF:0,Classic Music
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14008/index.m3u8
+#EXTINF:0,Classic Music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14009/index.m3u8
+#EXTINF:0,Radio Metal TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14010/index.m3u8
+#EXTINF:0,SONG TV RUSSIA 
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6394/index.m3u8
+#EXTINF:0,MTV Live HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/221/index.m3u8
+#EXTINF:0,Жара HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2129/index.m3u8
+#EXTINF:0,Жара
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/105/index.m3u8
+#EXTINF:0,Bridge TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/122/index.m3u8
+#EXTINF:0,Bridge Deluxe HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/236/index.m3u8
+#EXTINF:0,Bridge Hits
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/711/index.m3u8
+#EXTINF:0,Bridge Русский Хит
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/120/index.m3u8
+#EXTINF:0,Bridge Rock
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17043/index.m3u8
+#EXTINF:0,C-Music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2028/index.m3u8
+#EXTINF:0,Europa Plus TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/115/index.m3u8
+#EXTINF:0,МУЗ-ТВ
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/116/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/142/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/153/index.m3u8
+#EXTINF:0,Музыка Первого
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/155/index.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/208/index.m3u8
+#EXTINF:0,Club MTV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/558/index.m3u8
+#EXTINF:0,Mezzo
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/707/index.m3u8
+#EXTINF:0,ТНТ Music
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/710/index.m3u8
+#EXTINF:0,о2тв HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2141/index.m3u8
+#EXTINF:0,MTV 80s
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/724/index.m3u8
+#EXTINF:0,Vostok TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1054/index.m3u8
+#EXTINF:0,MTV 90s
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1038/index.m3u8
+#EXTINF:0,MCM Top Russia
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/836/index.m3u8
+#EXTINF:0,Clubbing TV HD RU
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2395/index.m3u8
+#EXTINF:0,RU TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/838/index.m3u8
+#EXTINF:0,Шансон ТВ
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/859/index.m3u8
+#EXTINF:0,Ля-минор ТВ
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2043/index.m3u8
+#EXTINF:0,Music Box Russia
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2048/index.m3u8
+#EXTINF:0,о2тв
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2068/index.m3u8
+#EXTINF:0,МузСоюз
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2137/index.m3u8
+#EXTINF:0,Жар Птица
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2142/index.m3u8
+#EXTINF:0,AIVA TV HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2156/index.m3u8
+#EXTINF:0,1HD Music Television
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9001/index.m3u8
+#EXTINF:0,NRG 91
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7223/index.m3u8
+#EXTINF:0,Ritsa TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7224/index.m3u8
+#EXTINF:0,Bridge Шлягер
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10038/index.m3u8
+#EXTINF:0,Viva HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10063/index.m3u8
+#EXTINF:0,Retro Dance 90s
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10064/index.m3u8
+#EXTINF:0,Krone hit HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10065/index.m3u8
+#EXTINF:0,Mix m tv hd
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10068/index.m3u8
+#EXTINF:0,4 Fun TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10069/index.m3u8
+#EXTINF:0,Deejay TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10070/index.m3u8
+#EXTINF:0,Девятая Волна HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10071/index.m3u8
+#EXTINF:0,Music Top HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10072/index.m3u8
+#EXTINF:0,Spirit Tv HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10073/index.m3u8
+#EXTINF:0,Biz music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10074/index.m3u8
+#EXTINF:0,Baraza Music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/10077/index.m3u8
+#EXTINF:0,Z! Musiс HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14138/index.m3u8
+#EXTINF:0,Z! Rock HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14139/index.m3u8
+#EXTINF:0,Первый музыкальный HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14142/index.m3u8
+#EXTINF:0,Первый музыкальный
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14143/index.m3u8
+#EXTINF:0,Первый музыкальный HD BY
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14144/index.m3u8
+#EXTINF:0,Первый музыкальный BY
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14145/index.m3u8
+#EXTINF:0,FreshTV HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14146/index.m3u8
+#EXTINF:0,Eurodance 90
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14148/index.m3u8
+#EXTINF:0,Music Box Gold
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14149/index.m3u8
+#EXTINF:0,Страна FM HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14152/index.m3u8
+#EXTINF:0,VB Dance Hits of 90s
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14154/index.m3u8
+#EXTINF:0,VB Русская Попса 80х-90х
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14155/index.m3u8
+#EXTINF:0,VB Russian Dance Hits of 90s
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14156/index.m3u8
+#EXTINF:0,Новое радио FHD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14162/index.m3u8
+#EXTINF:0,HITV FHD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14165/index.m3u8
+#EXTINF:0,ТНТ Music FHD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14166/index.m3u8
+#EXTINF:0,RETRO TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14169/index.m3u8
+#EXTINF:0,Илья ТВ Алла Пугачёва HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14237/index.m3u8
+#EXTINF:0,Илья ТВ Наш Сериал
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16154/index.m3u8
+#EXTINF:0,SKY HIGH CONCERT HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14241/index.m3u8
+#EXTINF:0,SKY HIGH CLASSIC HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15104/index.m3u8
+#EXTINF:0,M1 HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15016/index.m3u8
+#EXTINF:0,M2 HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15017/index.m3u8
+#EXTINF:0,MTV Biggest Pop HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15018/index.m3u8
+#EXTINF:0,MTV Block Party HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15019/index.m3u8
+#EXTINF:0,V2BEAT HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15020/index.m3u8
+#EXTINF:0,Zerouno TV
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15021/index.m3u8
+#EXTINF:0,MM Relax HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13030/index.m3u8
+#EXTINF:0,Trace Urban HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15107/index.m3u8
+#EXTINF:0,C4K360
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15233/index.m3u8
+#EXTINF:0,Муз ТВ +3 (Омск)
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15441/index.m3u8
+#EXTINF:0,VB Best Live Performances
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16003/index.m3u8
+#EXTINF:0,VB Romantic and Ballads
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16014/index.m3u8
+#EXTINF:0,LoveIsRadio.by
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16015/index.m3u8
+#EXTINF:0,InRating TV HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16020/index.m3u8
+#EXTINF:0,Радио Шансон тв HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16036/index.m3u8
+#EXTINF:0,Liberty Микс Music FHD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16070/index.m3u8
+#EXTINF:0,Kiss Kiss Tv HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16072/index.m3u8
+#EXTINF:0,Kiss Kiss Italia HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16073/index.m3u8
+#EXTINF:0,Kiss Kiss Napoli HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16074/index.m3u8
+#EXTINF:0,Zero Uno HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16076/index.m3u8
+#EXTINF:0,KLI Music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16079/index.m3u8
+#EXTINF:0,KLI Hit 90
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16081/index.m3u8
+#EXTINF:0,Bridge TV Фрэш
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17045/index.m3u8
+#EXTINF:0,HIT Music
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17047/index.m3u8
+#EXTINF:0,Радио ХИТ ОРС HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17048/index.m3u8
+#EXTINF:0,CONTACT music hd
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17051/index.m3u8
+#EXTINF:0,VB Modern Talking and Co
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17052/index.m3u8
+#EXTINF:0,Мелодии и ритмы зарубежной эстрады
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17057/index.m3u8
+#EXTINF:0,AIVA TV HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18033/index.m3u8
+#EXTINF:0,Backus TV Music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18040/index.m3u8
+#EXTINF:0,Vh 1 FHD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18041/index.m3u8
+#EXTINF:0,IMUZZ MUSIC HITS
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18054/index.m3u8
+#EXTINF:0,Музыка 1 HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18077/index.m3u8
+#EXTINF:0,Музыка 2 HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18079/index.m3u8
+#EXTINF:0,Музыка 1 International HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18078/index.m3u8
+#EXTINF:0,Музыка 2 International
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18080/index.m3u8
+#EXTINF:0,Музыка Кино HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18081/index.m3u8
+#EXTINF:0,Музыка Кино International
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18082/index.m3u8
+#EXTINF:0,Балет Опера HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18083/index.m3u8
+#EXTINF:0,FRESH Pop Hits HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18084/index.m3u8
+#EXTINF:0,FRESH Russian Pop HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18085/index.m3u8
+#EXTINF:0,FRESH Sad Music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18086/index.m3u8
+#EXTINF:0,FRESH Dance HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18087/index.m3u8
+#EXTINF:0,FRESH Rock Hits HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18088/index.m3u8
+#EXTINF:0,FRESH Rock Covers HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18089/index.m3u8
+#EXTINF:0,FRESH Russian Rap HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18090/index.m3u8
+#EXTINF:0,FRESH Concerts HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18091/index.m3u8
+#EXTINF:0,FRESH Retro HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18092/index.m3u8
+#EXTINF:0,FRESH Lyrics HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18093/index.m3u8
+#EXTINF:0,Gakku Media
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19164/index.m3u8
+#EXTINF:0,YES-MTV 00s
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19167/index.m3u8
+#EXTINF:0,Box Hits HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19175/index.m3u8
+#EXTINF:0,Kiss TV UK
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19193/index.m3u8
+#EXTINF:0,NOW 70s UK
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19194/index.m3u8
+#EXTINF:0,Now 70s HD UK
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19195/index.m3u8
+#EXTINF:0,Now 80s HD UK
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19196/index.m3u8
+#EXTINF:0,Now 90s HD UK
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19197/index.m3u8
+#EXTINF:0,MTV Base UK
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19198/index.m3u8
+#EXTINF:0,NRJ HITS HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19199/index.m3u8
+#EXTINF:0,ТНТ Music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19223/index.m3u8
+#EXTINF:0,Bridge Deluxe HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19224/index.m3u8
+#EXTINF:0,Bridge Rock HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19225/index.m3u8
+#EXTINF:0,Bridge Русский Хит HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19226/index.m3u8
+#EXTINF:0,Bridge Hits HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19227/index.m3u8
+#EXTINF:0,МУЗ-ТВ HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19228/index.m3u8
+#EXTINF:0,Mafi2a Music HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19235/index.m3u8
+#EXTINF:0,Plan B HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19249/index.m3u8
+#EXTINF:0,Индия HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19250/index.m3u8
+#EXTINF:0,Music Box Russia HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19255/index.m3u8
+#EXTINF:0,M6 Music FHD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19260/index.m3u8
+#EXTINF:0,Prokop TV Rock
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19270/index.m3u8
+#EXTINF:0,CHD-TV RU Rock HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19394/index.m3u8
+#EXTINF:0,VB Eurodance Hits 90s
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20000/index.m3u8
+#EXTINF:0,KLI Concert FHD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20049/index.m3u8
+#EXTINF:0,KLI Шансон HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20142/index.m3u8
+#EXTINF:0,NM Television HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20161/index.m3u8
+#EXTINF:0,Ё Самара HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20162/index.m3u8
+#EXTINF:0,Box Rurap HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20171/index.m3u8
+#EXTINF:0,VB MTV Old Россия HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20174/index.m3u8
+#EXTINF:0,VB Greatest Hits
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31622/index.m3u8
+#EXTINF:0,VB Yo! MTV HD
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31623/index.m3u8
+#EXTINF:0,VeleS Dj Set
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31639/index.m3u8
+#EXTINF:0,VeleS Магнитофон
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31645/index.m3u8
+#EXTINF:0,box_metall_hd
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31651/index.m3u8
+#EXTINF:0,LIBERTYMYUZIKL4K
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31662/index.m3u8
+#EXTINF:0,Prokop TV Hip Hop
+#EXTGRP:Музыка
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31672/index.m3u8
+#EXTINF:0,VF Союзмультфильм
+#EXTGRP:Детские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14238/index.m3u8
+#EXTINF:0,VF Ералаш
+#EXTGRP:Детские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14163/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:Детские
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/541/index.m3u8
+#EXTINF:0,78 Канал Санкт-Петербург 
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6144/index.m3u8
+#EXTINF:0,National Geographic 
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14000/index.m3u8
+#EXTINF:0,Славянский Мир
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14013/index.m3u8
+#EXTINF:0,Поехали! HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14020/index.m3u8
+#EXTINF:0,Big Planet
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14027/index.m3u8
+#EXTINF:0,Криминальное HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14033/index.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14001/index.m3u8
+#EXTINF:0,Связист ТВ
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9291/index.m3u8
+#EXTINF:0,Наша Сибирь HD orig
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/9330/index.m3u8
+#EXTINF:0,Museum HD FR
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7246/index.m3u8
+#EXTINF:0,Discovery Science HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6001/index.m3u8
+#EXTINF:0,TERRA HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2416/index.m3u8
+#EXTINF:0,TERRA
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/230/index.m3u8
+#EXTINF:0,TLC HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/232/index.m3u8
+#EXTINF:0,Travel Channel HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/233/index.m3u8
+#EXTINF:0,History HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/231/index.m3u8
+#EXTINF:0,Viju History HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/203/index.m3u8
+#EXTINF:0,H2 HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2033/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/227/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/140/index.m3u8
+#EXTINF:0,RTG HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/210/index.m3u8
+#EXTINF:0,Nat Geo Wild FHD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2415/index.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/133/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/218/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/137/index.m3u8
+#EXTINF:0,Охотник и Рыболов HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/917/index.m3u8
+#EXTINF:0,FoodTime FHD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2418/index.m3u8
+#EXTINF:0,FoodTime
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/918/index.m3u8
+#EXTINF:0,Food Network FHD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2419/index.m3u8
+#EXTINF:0,This is Bulgaria HD BG
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1043/index.m3u8
+#EXTINF:0,Живая природа HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2074/index.m3u8
+#EXTINF:0,В мире животных HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2089/index.m3u8
+#EXTINF:0,Моя Планета HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2090/index.m3u8
+#EXTINF:0,Приключения HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/920/index.m3u8
+#EXTINF:0,Глазами Туриста HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2104/index.m3u8
+#EXTINF:0,Большая Азия HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2009/index.m3u8
+#EXTINF:0,DocuBox HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/968/index.m3u8
+#EXTINF:0,Дикая охота HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2004/index.m3u8
+#EXTINF:0,Дикая рыбалка HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2005/index.m3u8
+#EXTINF:0,Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2394/index.m3u8
+#EXTINF:0,Загородный int HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2124/index.m3u8
+#EXTINF:0,Investigation Discovery HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2102/index.m3u8
+#EXTINF:0,Авто Плюс
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/151/index.m3u8
+#EXTINF:0,Кухня ТВ
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/152/index.m3u8
+#EXTINF:0,Нано ТВ HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2135/index.m3u8
+#EXTINF:0,Время
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/552/index.m3u8
+#EXTINF:0,Домашние Животные
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/158/index.m3u8
+#EXTINF:0,Точка отрыва
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/159/index.m3u8
+#EXTINF:0,Надежда
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2153/index.m3u8
+#EXTINF:0,Viju History
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/162/index.m3u8
+#EXTINF:0,Viju Explore
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/163/index.m3u8
+#EXTINF:0,Наука HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2155/index.m3u8
+#EXTINF:0,Galaxy HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5045/index.m3u8
+#EXTINF:0,Ocean TV
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/703/index.m3u8
+#EXTINF:0,Бобёр
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/725/index.m3u8
+#EXTINF:0,Зоопарк
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/731/index.m3u8
+#EXTINF:0,Моя Стихия
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/742/index.m3u8
+#EXTINF:0,Телекафе
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/865/index.m3u8
+#EXTINF:0,Усадьба
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/532/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1052/index.m3u8
+#EXTINF:0,RTG TV
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/841/index.m3u8
+#EXTINF:0,Дикий
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/847/index.m3u8
+#EXTINF:0,Travel+Adventure
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/850/index.m3u8
+#EXTINF:0,Охота и рыбалка
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2019/index.m3u8
+#EXTINF:0,365 дней ТВ
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2040/index.m3u8
+#EXTINF:0,Телепутешествия
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2051/index.m3u8
+#EXTINF:0,Тайна
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2059/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2067/index.m3u8
+#EXTINF:0,Нано ТВ
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2081/index.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2085/index.m3u8
+#EXTINF:0,Оружие
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2087/index.m3u8
+#EXTINF:0,Зоо ТВ
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2100/index.m3u8
+#EXTINF:0,Живая Планета
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2101/index.m3u8
+#EXTINF:0,Наша тема
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2118/index.m3u8
+#EXTINF:0,Пёс и Ко
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2123/index.m3u8
+#EXTINF:0,Fashion One
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1010/index.m3u8
+#EXTINF:0,World Fashion Channel
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1068/index.m3u8
+#EXTINF:0,Мужской
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2047/index.m3u8
+#EXTINF:0,Da Vinci
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/537/index.m3u8
+#EXTINF:0,Мама
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/704/index.m3u8
+#EXTINF:0,CBS Reality
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/706/index.m3u8
+#EXTINF:0,Kabbala TV
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/1053/index.m3u8
+#EXTINF:0,Первый Вегетарианский
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/833/index.m3u8
+#EXTINF:0,Загородная Жизнь
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/852/index.m3u8
+#EXTINF:0,Русский Север FHD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/846/index.m3u8
+#EXTINF:0,Ювелирия
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2034/index.m3u8
+#EXTINF:0,Кто Куда
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2112/index.m3u8
+#EXTINF:0,Т24
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5047/index.m3u8
+#EXTINF:0,ТНОМЕР
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2149/index.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5037/index.m3u8
+#EXTINF:0,История
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/111/index.m3u8
+#EXTINF:0,Outdoor Channel
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/119/index.m3u8
+#EXTINF:0,Вопросы и ответы
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2026/index.m3u8
+#EXTINF:0,Совершенно секретно
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/121/index.m3u8
+#EXTINF:0,Доктор
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/512/index.m3u8
+#EXTINF:0,Авто 24
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/538/index.m3u8
+#EXTINF:0,Авто Плюс HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6369/index.m3u8
+#EXTINF:0,Viju Explore HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6381/index.m3u8
+#EXTINF:0,HGTV HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/6391/index.m3u8
+#EXTINF:0,SKY HIGH DOC HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18172/index.m3u8
+#EXTINF:0,SKY HIGH NATURE FHD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19309/index.m3u8
+#EXTINF:0,Liberty BBC FHD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15108/index.m3u8
+#EXTINF:0,Liberty Планета360 FHD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17026/index.m3u8
+#EXTINF:0,Liberty Наука FHD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19305/index.m3u8
+#EXTINF:0,Univer TV HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15113/index.m3u8
+#EXTINF:0,Первый космический HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/908/index.m3u8
+#EXTINF:0,Мир Вокруг HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15219/index.m3u8
+#EXTINF:0,Viju Nature HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15225/index.m3u8
+#EXTINF:0,VF Авто
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15511/index.m3u8
+#EXTINF:0,VF Охота
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15513/index.m3u8
+#EXTINF:0,VF Домашний повар
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15514/index.m3u8
+#EXTINF:0,VF Путешествия
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15515/index.m3u8
+#EXTINF:0,VF Рыбалка
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16138/index.m3u8
+#EXTINF:0,VF Стройка
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16139/index.m3u8
+#EXTINF:0,Твтур TV
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16008/index.m3u8
+#EXTINF:0,Дайвинг TV HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16012/index.m3u8
+#EXTINF:0,Вкусное TV HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16013/index.m3u8
+#EXTINF:0,Travel Guide TV
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16026/index.m3u8
+#EXTINF:0,Z! Travel HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17063/index.m3u8
+#EXTINF:0,MM Микромир HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18193/index.m3u8
+#EXTINF:0,MM Макромир HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18194/index.m3u8
+#EXTINF:0,MM Мегамир HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18195/index.m3u8
+#EXTINF:0,MM Translation HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18196/index.m3u8
+#EXTINF:0,Рыболов HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19254/index.m3u8
+#EXTINF:0,ЖИВИ! HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19252/index.m3u8
+#EXTINF:0,HDL HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19251/index.m3u8
+#EXTINF:0,MM Experiment HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19412/index.m3u8
+#EXTINF:0,MM Открытия HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19415/index.m3u8
+#EXTINF:0,KLI Docu HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20143/index.m3u8
+#EXTINF:0,BOX Docu HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20153/index.m3u8
+#EXTINF:0,Yosso TV Food
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31616/index.m3u8
+#EXTINF:0,Yosso TV Science
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31617/index.m3u8
+#EXTINF:0,Yosso TV Nature
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31618/index.m3u8
+#EXTINF:0,Yosso TV Travel
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31619/index.m3u8
+#EXTINF:0,Yosso TV Travel
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31620/index.m3u8
+#EXTINF:0,box_travel_premiere_hd
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31652/index.m3u8
+#EXTINF:0,box_gurman_hd
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31653/index.m3u8
+#EXTINF:0,box_autotrend_hd
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31654/index.m3u8
+#EXTINF:0,Z!History HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31695/index.m3u8
+#EXTINF:0,Z!Military HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31696/index.m3u8
+#EXTINF:0,Z!Biography HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31697/index.m3u8
+#EXTINF:0,Z!Science HD
+#EXTGRP:Познавательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/31705/index.m3u8
+#EXTINF:0,VF Концерты
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14159/index.m3u8
+#EXTINF:0,VF КВН
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14170/index.m3u8
+#EXTINF:0,Большой Эфир HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14012/index.m3u8
+#EXTINF:0,Fashion TV Россия HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14014/index.m3u8
+#EXTINF:0,OstWest
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14021/index.m3u8
+#EXTINF:0,Gags Network
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14024/index.m3u8
+#EXTINF:0,Солнце
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/872/index.m3u8
+#EXTINF:0,Insight TV HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19253/index.m3u8
+#EXTINF:0,HDL
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/226/index.m3u8
+#EXTINF:0,DTX HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2006/index.m3u8
+#EXTINF:0,Арсенал HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5044/index.m3u8
+#EXTINF:0,Анекдот ТВ
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5034/index.m3u8
+#EXTINF:0,Театр
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2431/index.m3u8
+#EXTINF:0,Luxury
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/2072/index.m3u8
+#EXTINF:0,Luxury
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/5032/index.m3u8
+#EXTINF:0,Продвижение
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/851/index.m3u8
+#EXTINF:0,Девятая Волна
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/868/index.m3u8
+#EXTINF:0,Зал Суда HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7141/index.m3u8
+#EXTINF:0,Gags Network HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/7142/index.m3u8
+#EXTINF:0,СТС International
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15228/index.m3u8
+#EXTINF:0,НАЗАД В 90-e
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/11067/index.m3u8
+#EXTINF:0,Илья ТВ Юмор HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/13000/index.m3u8
+#EXTINF:0,UZ Однажды в России HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14223/index.m3u8
+#EXTINF:0,SKY HIGH MAN HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/14245/index.m3u8
+#EXTINF:0,SKY HIGH STANDUP HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19311/index.m3u8
+#EXTINF:0,Liberty Авто Гир FHD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15109/index.m3u8
+#EXTINF:0,Liberty Занавес  HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17028/index.m3u8
+#EXTINF:0,Liberty Шоу FHD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/17030/index.m3u8
+#EXTINF:0,Перец International
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/15227/index.m3u8
+#EXTINF:0,VB ОСП-Cтудия
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16004/index.m3u8
+#EXTINF:0,VB Осторожно Модерн
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16005/index.m3u8
+#EXTINF:0,Бьюти TV
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16010/index.m3u8
+#EXTINF:0,Релакс TV
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16011/index.m3u8
+#EXTINF:0,VF Юмор 18+
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16137/index.m3u8
+#EXTINF:0,VF Уральские пельмени
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18198/index.m3u8
+#EXTINF:0,VF Кухня
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18199/index.m3u8
+#EXTINF:0,VF Баня
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/18200/index.m3u8
+#EXTINF:0,VF Однажды в России
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19286/index.m3u8
+#EXTINF:0,Quadro 4К
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/19262/index.m3u8
+#EXTINF:0,Новогодний Dosug Tv
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20087/index.m3u8
+#EXTINF:0,Dosug TV ER
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/20088/index.m3u8
+#EXTINF:0,UZ-Новогодний канал HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16087/index.m3u8
+#EXTINF:0,Yosso C-Holiday
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16089/index.m3u8
+#EXTINF:0,VB Новогодний канал HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16090/index.m3u8
+#EXTINF:0,Prokop TV Новогодний HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16091/index.m3u8
+#EXTINF:0,Kinoshka Christmas HD
+#EXTGRP:Развлекательные
+http://o6yacu2f.siauliairsavlt.com/iptv/3ULZKTMY2S95PR/16092/index.m3u8
